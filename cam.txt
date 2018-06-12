@@ -1,0 +1,13 @@
+
+Apple A11 Bionic 6 nhân
+Apple A10 Fusion 4 nhân 64-bit
+Apple A10 Fusion 4 nhân
+((((A|a)\w+e) (A(\d{1,2}))) (((\w+) (\d{0,1}) (\w+) ((\d{1,2}[-]\w+)))|((\w+) (\d{0,1}) (\w+))))
+
+Apple A10        4 nhân
+Apple A9         2 nhân 64-bit
+Apple A9         2 nhân
+Apple A8         2 nhân 64-bit
+(((A|a)\w+e) (A(\d{1,2}))) (((\d{0,1}) (\w+) ((\d{1,2}[-]\w+)))|((\w+) (\d{0,1})))
+
+  

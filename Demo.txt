@@ -1,0 +1,1233 @@
+﻿<body style="">
+    
+<section class=" filtered">
+
+<ul class="filter">
+    <li class="fmanu">
+                    <a href="/dtdd-apple-iphone" data-id="80" class="prevent">iPhone (Apple)</a>
+            <a href="/dtdd-samsung" data-id="2" class="prevent">Samsung</a>
+            <a href="/dtdd-oppo" data-id="1971" class="prevent">OPPO</a>
+        <span class="criteria">Hãng khác
+        </span>
+        <div class="manufacture">
+            <button type="button" class="closefilter"><i class="icontgdd-closefilter"></i></button>
+                <label class="all"><i class="icontgdd-checkbox"></i>Tất cả hãng</label>
+            <aside>
+                    <label class="check" data-id="80">
+                        <a href="/dtdd-apple-iphone" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            iPhone (Apple)
+                        </a>
+                    </label>
+                    <label data-id="2">
+                        <a href="/dtdd-samsung" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            Samsung
+                        </a>
+                    </label>
+                    <label data-id="1971">
+                        <a href="/dtdd-oppo" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            OPPO
+                        </a>
+                    </label>
+                    <label data-id="3">
+                        <a href="/dtdd-sony" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            Sony
+                        </a>
+                    </label>
+                    <label data-id="1">
+                        <a href="/dtdd-nokia" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            Nokia
+                        </a>
+                    </label>
+                    <label data-id="2236">
+                        <a href="/dtdd-vivo" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            Vivo
+                        </a>
+                    </label>
+                    <label data-id="104">
+                        <a href="/dtdd-huawei" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            Huawei
+                        </a>
+                    </label>
+                    <label data-id="2235">
+                        <a href="/dtdd-xiaomi" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            Xiaomi
+                        </a>
+                    </label>
+            </aside>
+            <aside>
+                    <label data-id="4">
+                        <a href="/dtdd-motorola" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            Motorola
+                        </a>
+                    </label>
+                    <label data-id="111">
+                        <a href="/dtdd-asus-zenfone" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            Asus (Zenfone)
+                        </a>
+                    </label>
+                    <label data-id="14">
+                        <a href="/dtdd-htc" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            HTC
+                        </a>
+                    </label>
+                    <label data-id="110">
+                        <a href="/dtdd-mobiistar" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            Mobiistar
+                        </a>
+                    </label>
+                    <label data-id="19">
+                        <a href="/dtdd-mobell" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            Mobell
+                        </a>
+                    </label>
+                    <label data-id="27">
+                        <a href="/dtdd-philips" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            Philips
+                        </a>
+                    </label>
+                    <label data-id="5332">
+                        <a href="/dtdd-itel" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            Itel
+                        </a>
+                    </label>
+                    <label data-id="2259">
+                        <a href="/dtdd-bkav" class="prevent">
+                            <i class="icontgdd-checkbox"></i>
+                            BKAV
+                        </a>
+                    </label>
+            </aside>
+            <p class="doit"></p>
+            <p class="cslder">
+                <span class="cswrap">
+                    <span class="csdot"></span>
+                    <span class="csdot"></span>
+                    <span class="csdot"></span>
+                </span>
+            </p>
+        </div>
+    </li>
+    <li class="frange">
+            <a href="/dtdd-apple-iphone?p=duoi-1-trieu" data-id="7">
+                Dưới 1 triệu
+            </a>
+            <a href="/dtdd-apple-iphone?p=tu-1-3-trieu" data-id="9">
+                Từ 1 - 3 triệu
+            </a>
+            <a href="/dtdd-apple-iphone?p=tu-3-5-trieu" data-id="289">
+                Từ 3 - 5 triệu
+            </a>
+            <a href="/dtdd-apple-iphone?p=tu-5-10-trieu" data-id="562">
+                Từ 5 - 10 triệu
+            </a>
+            <a href="/dtdd-apple-iphone?p=tren-10-trieu" data-id="253">
+                Trên 10 triệu
+            </a>
+        <span class="criteria" style="display:none!important">Giá khác
+        </span>
+        <div class="listprice" style="display:none!important">
+            <button type="button" class="closefilter"><i class="icontgdd-closefilter"></i></button>
+            <label class="all check" data-id="0"><i class="icontgdd-checklist"></i>Tất cả mức giá</label>
+                <label data-id="7">
+                    <i class="icontgdd-checklist"></i>
+                    <a href="/dtdd-apple-iphone?p=duoi-1-trieu">
+                        Dưới 1 triệu
+                    </a>
+                </label>
+                <label data-id="9">
+                    <i class="icontgdd-checklist"></i>
+                    <a href="/dtdd-apple-iphone?p=tu-1-3-trieu">
+                        Từ 1 - 3 triệu
+                    </a>
+                </label>
+                <label data-id="289">
+                    <i class="icontgdd-checklist"></i>
+                    <a href="/dtdd-apple-iphone?p=tu-3-5-trieu">
+                        Từ 3 - 5 triệu
+                    </a>
+                </label>
+                <label data-id="562">
+                    <i class="icontgdd-checklist"></i>
+                    <a href="/dtdd-apple-iphone?p=tu-5-10-trieu">
+                        Từ 5 - 10 triệu
+                    </a>
+                </label>
+                <label data-id="253">
+                    <i class="icontgdd-checklist"></i>
+                    <a href="/dtdd-apple-iphone?p=tren-10-trieu">
+                        Trên 10 triệu
+                    </a>
+                </label>
+            <p class="doit"></p>
+            <p class="cslder">
+                <span class="cswrap">
+                    <span class="csdot"></span>
+                    <span class="csdot"></span>
+                    <span class="csdot"></span>
+                </span>
+            </p>
+        </div>
+    </li>
+
+    <li class="barpage prevent">
+        <label data-id="moi-ra-mat"><a href="?s=moi-ra-mat"><i class="icontgdd-checkbox"></i>Mới</a></label>
+        <label data-id="tra-gop-0-phan-tram"><a href="?s=tra-gop-0-phan-tram"><i class="icontgdd-checkbox"></i>Trả góp 0%</a></label>
+            <label data-id="gia-re-online"><a href="?s=gia-re-online"><i class="icontgdd-checkbox"></i>Giá rẻ Online</a></label>
+    </li>
+
+    <!--#region Tính năng-->
+
+<li>
+    <span class="criteria">Tính năng 
+    </span>
+    <div class="feature">
+        <button type="button" class="closefilter"><i class="icontgdd-closefilter"></i></button>
+
+            <aside class="rowfeature">
+                    <aside class="property">
+                        <strong>Loại điện thoại</strong>
+                            <label data-id="62879">
+                                <a href="/dtdd-apple-iphone?g=dien-thoai-pho-thong">
+                                    <i class="icontgdd-checkbox"></i>
+                                    Điện thoại phổ thông
+                                </a>
+                            </label>
+                            <label data-id="39237">
+                                <a href="/dtdd-apple-iphone?g=android">
+                                    <i class="icontgdd-checkbox"></i>
+                                    Android
+                                </a>
+                            </label>
+                            <label data-id="39238">
+                                <a href="/dtdd-apple-iphone?g=iphone-ios">
+                                    <i class="icontgdd-checkbox"></i>
+                                    iPhone (iOS)
+                                </a>
+                            </label>
+                    </aside>
+                    <aside class="property">
+                        <strong>Chất liệu vỏ</strong>
+                            <label data-id="57279">
+                                <a href="/dtdd-apple-iphone?g=kim-loai-nguyen-khoi">
+                                    <i class="icontgdd-checkbox"></i>
+                                    Kim loại nguyên khối
+                                </a>
+                            </label>
+                            <label data-id="57280">
+                                <a href="/dtdd-apple-iphone?g=nhua-va-kim-loai">
+                                    <i class="icontgdd-checkbox"></i>
+                                    Nhựa và kim loại
+                                </a>
+                            </label>
+                            <label data-id="57311">
+                                <a href="/dtdd-apple-iphone?g=kim-loai-va-kinh-cuong-luc">
+                                    <i class="icontgdd-checkbox"></i>
+                                    Kim loại và kính cường lực
+                                </a>
+                            </label>
+                            <label data-id="57278">
+                                <a href="/dtdd-apple-iphone?g=nhua">
+                                    <i class="icontgdd-checkbox"></i>
+                                    Nhựa
+                                </a>
+                            </label>
+                    </aside>
+            </aside>
+            <aside class="rowfeature">
+                <aside class="property">
+                    <strong>Camera Sau</strong>
+                        <label data-id="54167">
+                            <a href="/dtdd-apple-iphone?g=duoi-3-mp">
+                                <i class="icontgdd-checkbox"></i>
+                                Dưới 3 MP
+                            </a>
+                        </label>
+                        <label data-id="54168">
+                            <a href="/dtdd-apple-iphone?g=tu-3-den-5-mp">
+                                <i class="icontgdd-checkbox"></i>
+                                Từ 3 đến 5 MP
+                            </a>
+                        </label>
+                        <label data-id="54169">
+                            <a href="/dtdd-apple-iphone?g=tu-5-den-8-mp">
+                                <i class="icontgdd-checkbox"></i>
+                                Từ 5 đến 8 MP
+                            </a>
+                        </label>
+                        <label data-id="54170">
+                            <a href="/dtdd-apple-iphone?g=tu-8-den-12-mp">
+                                <i class="icontgdd-checkbox"></i>
+                                Từ 8 đến 12 MP
+                            </a>
+                        </label>
+                        <label data-id="54171">
+                            <a href="/dtdd-apple-iphone?g=tren-12-mp">
+                                <i class="icontgdd-checkbox"></i>
+                                Trên 12 MP
+                            </a>
+                        </label>
+                </aside>
+                <aside class="yesno">
+                    <strong>Tính năng đặc biệt</strong>
+                        <label data-id="9009">
+                            <a href="/dtdd-apple-iphone?f=bao-mat-van-tay">
+                                <i class="icontgdd-checkbox"></i>
+                                Bảo mật vân tay
+                            </a>
+                        </label>
+                        <label data-id="13929">
+                            <a href="/dtdd-apple-iphone?f=man-hinh-tran-vien">
+                                <i class="icontgdd-checkbox"></i>
+                                Màn hình tràn viền
+                            </a>
+                        </label>
+                        <label data-id="7819">
+                            <a href="/dtdd-apple-iphone?f=2-sim">
+                                <i class="icontgdd-checkbox"></i>
+                                2 SIM
+                            </a>
+                        </label>
+                        <label data-id="10883">
+                            <a href="/dtdd-apple-iphone?f=sac-pin-cho-thiet-bi-khac">
+                                <i class="icontgdd-checkbox"></i>
+                                Sạc pin cho thiết bị khác
+                            </a>
+                        </label>
+                        <label data-id="10881">
+                            <a href="/dtdd-apple-iphone?f=3d-touch">
+                                <i class="icontgdd-checkbox"></i>
+                                3D Touch
+                            </a>
+                        </label>
+                        <label data-id="10882">
+                            <a href="/dtdd-apple-iphone?f=sac-pin-nhanh">
+                                <i class="icontgdd-checkbox"></i>
+                                Sạc pin nhanh
+                            </a>
+                        </label>
+                        <label data-id="7760">
+                            <a href="/dtdd-apple-iphone?f=chong-nuoc-bui">
+                                <i class="icontgdd-checkbox"></i>
+                                Chống nước, bụi
+                            </a>
+                        </label>
+                        <label data-id="6463">
+                            <a href="/dtdd-apple-iphone?f=ho-tro-4g">
+                                <i class="icontgdd-checkbox"></i>
+                                hỗ trợ 4G
+                            </a>
+                        </label>
+                        <label data-id="7759">
+                            <a href="/dtdd-apple-iphone?f=pin-khung-3000-mah">
+                                <i class="icontgdd-checkbox"></i>
+                                Pin khủng (&gt;3000 mAh)
+                            </a>
+                        </label>
+                </aside>
+            </aside>
+            <aside class="rowfeature hide">
+                    <aside class="property">
+                        <strong>Camera Trước</strong>
+                            <label data-id="54172">
+                                <a href="/dtdd-apple-iphone?g=camera-truoc-duoi-3-mp">
+                                    <i class="icontgdd-checkbox"></i>
+                                    Dưới 3 MP
+                                </a>
+                            </label>
+                            <label data-id="54173">
+                                <a href="/dtdd-apple-iphone?g=camera-truoc-tu-3-den-5-mp">
+                                    <i class="icontgdd-checkbox"></i>
+                                    Từ 3 đến 5 MP
+                                </a>
+                            </label>
+                            <label data-id="54174">
+                                <a href="/dtdd-apple-iphone?g=camera-truoc-tu-5-den-8-mp">
+                                    <i class="icontgdd-checkbox"></i>
+                                    Từ 5 đến 8 MP
+                                </a>
+                            </label>
+                            <label data-id="54175">
+                                <a href="/dtdd-apple-iphone?g=camera-truoc-tren-8-mp">
+                                    <i class="icontgdd-checkbox"></i>
+                                    Trên 8 MP
+                                </a>
+                            </label>
+                    </aside>
+                    <aside class="property">
+                        <strong>Màn hình</strong>
+                            <label data-id="40432">
+                                <a href="/dtdd-apple-iphone?g=duoi-3">
+                                    <i class="icontgdd-checkbox"></i>
+                                    Dưới 3"
+                                </a>
+                            </label>
+                            <label data-id="40433">
+                                <a href="/dtdd-apple-iphone?g=khoang-4">
+                                    <i class="icontgdd-checkbox"></i>
+                                    Khoảng 4"
+                                </a>
+                            </label>
+                            <label data-id="40434">
+                                <a href="/dtdd-apple-iphone?g=khoang-5">
+                                    <i class="icontgdd-checkbox"></i>
+                                    Khoảng 5"
+                                </a>
+                            </label>
+                            <label data-id="40435">
+                                <a href="/dtdd-apple-iphone?g=khoang-6">
+                                    <i class="icontgdd-checkbox"></i>
+                                    Khoảng 6"
+                                </a>
+                            </label>
+                    </aside>
+            </aside>
+        <button type="button" class="morefeature" onclick="$(this).remove();$('.rowfeature.hide').slideDown().removeClass('hide')">Xem thêm tính năng khác</button>
+        <p class="doit"></p>
+        <p class="cslder">
+            <span class="cswrap">
+                <span class="csdot"></span>
+                <span class="csdot"></span>
+                <span class="csdot"></span>
+            </span>
+        </p>
+    </div>
+</li>
+    <!--#endregion-->
+</ul>
+
+    <div class="choosedfilter">
+            <a href="/dtdd">
+                <h2>iPhone (Apple)</h2>
+                <i class="icontgdd-clearfil"></i></a>
+                                            <div class="watching">
+        <h1>Điện thoại iPhone (Apple)</h1>
+    </div>
+
+    </div>
+
+        <!-- manufacture filter banner-->
+    <div id="manufacturefilterbanner">
+<a href="#" onclick="jQuery.ajax({ url: '//www.thegioididong.com/bannertracking?bid=21332&amp;r='+ (new Date).getTime(),   async: true, cache: false });"><img src="//cdn2.tgdd.vn/qcao/25_05_2018_17_17_48_iphone.png" alt="Apple"></a>    </div>
+    <style>
+        #manufacturefilterbanner {
+            pointer-events: none;
+        }
+
+        #manufacturefilterbanner img {
+            width: 100%;
+        }
+    </style>
+
+    <!-- Product -->
+    
+<ul class="homeproduct filter-cate">
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-x-256gb">
+                    <img width="150" height="150" src="https://cdn1.tgdd.vn/Products/Images/42/114111/iphone-x-256gb-a1-400x400.jpg">
+                <h3>iPhone X 256GB</h3>
+                
+                    <div class="price"><strong>34.790.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                    <div class="ratingresult">
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+        <span>20 đánh giá</span>
+    </div>
+
+                    <div class="promo noimage">
+            <p> Giảm 2 triệu khi mua online (từ 28 - 31/05) và <b>1 K.mãi</b> khác</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 5.8", Super Retina</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A11 Bionic 6 nhân</span>
+                            <span>RAM: 3 GB, ROM: 256 GB</span>
+                            <span>Camera: 2 camera 12 MP, Selfie: 7 MP</span>
+                            <span>PIN: 2716 mAh</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=114111'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-x-256gb'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-x-64gb">
+                    <img width="150" height="150" src="https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-hh-600x600-400x400.jpg">
+                <h3>iPhone X 64GB</h3>
+                
+                    <div class="price"><strong>29.990.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                    <div class="ratingresult">
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+        <span>48 đánh giá</span>
+    </div>
+
+                    <div class="promo noimage">
+            <p> Giảm 2 triệu khi mua online (từ 28 - 31/05) và <b>1 K.mãi</b> khác</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 5.8", Super Retina</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A11 Bionic 6 nhân</span>
+                            <span>RAM: 3 GB, ROM: 64 GB</span>
+                            <span>Camera: 2 camera 12 MP, Selfie: 7 MP</span>
+                            <span>PIN: 2716 mAh</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=114115'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-x-64gb'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-8-plus-do-256gb">
+                    <img width="150" height="150" src="https://cdn1.tgdd.vn/Products/Images/42/164236/iphone-8-plus-do-256gb-400x400.jpg">
+                <h3>iPhone 8 Plus Red 256GB (Đỏ)</h3>
+                
+                    <div class="price"><strong>28.790.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                
+                    <div class="promo noimage">
+            <p> Giảm 2 triệu khi mua online (từ 28 - 31/05) và <b>1 K.mãi</b> khác</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 5.5", Retina HD</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A11 Bionic 6 nhân</span>
+                            <span>RAM: 3 GB, ROM: 256 GB</span>
+                            <span>Camera: 2 camera 12 MP, Selfie: 7 MP</span>
+                            <span>PIN: 2691 mAh</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=164236'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-8-plus-do-256gb'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-8-plus-256gb">
+                    <img width="150" height="150" src="https://cdn4.tgdd.vn/Products/Images/42/114114/iphone-8-plus-256gb-hh-400x400.jpg">
+                <h3>iPhone 8 Plus 256GB</h3>
+                
+                    <div class="price"><strong>28.790.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                    <div class="ratingresult">
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+        <span>5 đánh giá</span>
+    </div>
+
+                    <div class="promo noimage">
+            <p> Giảm 2 triệu khi mua online (từ 28 - 31/05) và <b>1 K.mãi</b> khác</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 5.5", Retina HD</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A11 Bionic 6 nhân</span>
+                            <span>RAM: 3 GB, ROM: 256 GB</span>
+                            <span>Camera: 2 camera 12 MP, Selfie: 7 MP</span>
+                            <span>PIN: 2691 mAh</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=114114'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-8-plus-256gb'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-8-256gb">
+                    <img width="150" height="150" src="https://cdn2.tgdd.vn/Products/Images/42/114112/iphone-8-256gb-hh-400x400.jpg" data-original="https://cdn2.tgdd.vn/Products/Images/42/114112/iphone-8-256gb-hh-400x400.jpg" class="lazy lazydone" style="display: block; opacity: 1;">
+                <h3>iPhone 8 256GB</h3>
+                
+                    <div class="price"><strong>25.790.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                
+                    <div class="promo noimage">
+            <p> Giảm 2 triệu khi mua online (từ 28 - 31/05) và <b>1 K.mãi</b> khác</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 4.7", Retina HD</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A11 Bionic 6 nhân</span>
+                            <span>RAM: 2 GB, ROM: 256 GB</span>
+                            <span>Camera: 12 MP, Selfie: 7 MP</span>
+                            <span>PIN: 1821 mAh</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=114112'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-8-256gb'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-8-plus">
+                    <img width="150" height="150" src="https://cdn.tgdd.vn/Products/Images/42/114110/iphone-8-plus-hh-400x400.jpg" data-original="https://cdn.tgdd.vn/Products/Images/42/114110/iphone-8-plus-hh-400x400.jpg" class="lazy lazydone" style="display: block; opacity: 1;">
+                <h3>iPhone 8 Plus 64GB</h3>
+                
+                    <div class="price"><strong>23.990.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                    <div class="ratingresult">
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+        <span>42 đánh giá</span>
+    </div>
+
+                    <div class="promo noimage">
+            <p> Giảm 2 triệu khi mua online (từ 28 - 31/05) và <b>1 K.mãi</b> khác</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 5.5", Retina HD</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A11 Bionic 6 nhân</span>
+                            <span>RAM: 3 GB, ROM: 64 GB</span>
+                            <span>Camera: 2 camera 12 MP, Selfie: 7 MP</span>
+                            <span>PIN: 2691 mAh</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=114110'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-8-plus'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-8-plus-do">
+                    <img width="150" height="150" src="https://cdn3.tgdd.vn/Products/Images/42/158738/iphone-8-plus-red-400x400.jpg" data-original="https://cdn3.tgdd.vn/Products/Images/42/158738/iphone-8-plus-red-400x400.jpg" class="lazy lazydone" style="display: block; opacity: 1;">
+                <h3>iPhone 8 Plus Red 64GB (Đỏ)</h3>
+                
+                    <div class="price"><strong>23.990.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                
+                    <div class="promo noimage">
+            <p> Giảm 2 triệu khi mua online (từ 28 - 31/05) và <b>1 K.mãi</b> khác</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 5.5", Retina HD</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A11 Bionic 6 nhân</span>
+                            <span>RAM: 3 GB, ROM: 64 GB</span>
+                            <span>Camera: 2 camera 12 MP, Selfie: 7 MP</span>
+                            <span>PIN: 2691 mAh</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=158738'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-8-plus-do'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-7-plus-256gb">
+                    <img width="150" height="150" src="https://cdn.tgdd.vn/Products/Images/42/87840/iphone-7-plus-256gb-hh-400x400.jpg" data-original="https://cdn.tgdd.vn/Products/Images/42/87840/iphone-7-plus-256gb-hh-400x400.jpg" class="lazy lazydone" style="display: block; opacity: 1;">
+                <h3>iPhone 7 Plus 256GB</h3>
+                
+                    <div class="price"><strong>23.990.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                    <div class="ratingresult">
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-hstar"></i>
+        <span>113 đánh giá</span>
+    </div>
+
+                    <div class="promo noimage">
+            <p> Giảm ngay 1 triệu</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 5.5", Retina HD</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A10 Fusion 4 nhân 64-bit</span>
+                            <span>RAM: 3 GB, ROM: 256 GB</span>
+                            <span>Camera: 2 camera 12 MP, Selfie: 7 MP</span>
+                            <span>PIN: 2900 mAh</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=87840'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-7-plus-256gb'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-7-plus-128gb">
+                    <img width="150" height="150" src="https://cdn4.tgdd.vn/Products/Images/42/87839/iphone-7-plus-128gb-hh-400x400.jpg" data-original="https://cdn4.tgdd.vn/Products/Images/42/87839/iphone-7-plus-128gb-hh-400x400.jpg" class="lazy lazydone" style="display: block; opacity: 1;">
+                <h3>iPhone 7 Plus 128GB</h3>
+                
+                    <div class="price"><strong>22.990.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                    <div class="ratingresult">
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-gstar"></i>         
+        <span>78 đánh giá</span>
+    </div>
+
+                    <div class="promo noimage">
+            <p> Giảm ngay 1 triệu và <b>1 K.mãi</b> khác</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 5.5", Retina HD</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A10 Fusion 4 nhân</span>
+                            <span>RAM: 3 GB, ROM: 128 GB</span>
+                            <span>Camera: 2x12 MP, Selfie: 7 MP</span>
+                            <span>PIN: 2900 mAh, SIM: 1 SIM</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=87839'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-7-plus-128gb'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-8-64gb">
+                    <img width="150" height="150" src="https://cdn3.tgdd.vn/Products/Images/42/114113/iphone-8-64gb-hh-400x400.jpg" data-original="https://cdn3.tgdd.vn/Products/Images/42/114113/iphone-8-64gb-hh-400x400.jpg" class="lazy lazydone" style="display: block; opacity: 1;">
+                <h3>iPhone 8 64GB</h3>
+                
+                    <div class="price"><strong>20.990.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                    <div class="ratingresult">
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-gstar"></i>         
+        <span>2 đánh giá</span>
+    </div>
+
+                    <div class="promo noimage">
+            <p> Giảm 2 triệu khi mua online (từ 28 - 31/05) và <b>1 K.mãi</b> khác</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 4.7", Retina HD</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A11 Bionic 6 nhân</span>
+                            <span>RAM: 2 GB, ROM: 64 GB</span>
+                            <span>Camera: 12 MP, Selfie: 7 MP</span>
+                            <span>PIN: 1821 mAh</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=114113'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-8-64gb'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-8-do">
+                    <img width="150" height="150" src="https://cdn.tgdd.vn/Products/Images/42/158730/iphone-8-red-do-2-400x400.jpg" data-original="https://cdn.tgdd.vn/Products/Images/42/158730/iphone-8-red-do-2-400x400.jpg" class="lazy lazydone" style="display: block; opacity: 1;">
+                <h3>iPhone 8 Red 64GB (Đỏ)</h3>
+                
+                    <div class="price"><strong>20.990.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                
+                    <div class="promo noimage">
+            <p> Giảm 2 triệu khi mua online (từ 28 - 31/05) và <b>1 K.mãi</b> khác</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 4.7", Retina HD</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A11 Bionic 6 nhân</span>
+                            <span>RAM: 2 GB, ROM: 64 GB</span>
+                            <span>Camera: 12 MP, Selfie: 7 MP</span>
+                            <span>PIN: 1821 mAh</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=158730'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-8-do'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-7-plus">
+                    <img width="150" height="150" src="https://cdn4.tgdd.vn/Products/Images/42/78124/iphone-7-plus-32gb-hh-400x400.jpg" data-original="https://cdn4.tgdd.vn/Products/Images/42/78124/iphone-7-plus-32gb-hh-400x400.jpg" class="lazy lazydone" style="display: block; opacity: 1;">
+                <h3>iPhone 7 Plus 32GB</h3>
+                
+                    <div class="price"><strong>19.990.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                    <div class="ratingresult">
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+        <span>95 đánh giá</span>
+    </div>
+
+                    <div class="promo noimage">
+            <p> Giảm 700.000đ thanh toán online bằng thẻ Mastercard</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 5.5", Retina HD</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A10 4 nhân</span>
+                            <span>RAM: 3 GB, ROM: 32 GB</span>
+                            <span>Camera: kép 12 MP, Selfie: 7 MP</span>
+                            <span>PIN: 2900 mAh</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=78124'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-7-plus'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-7">
+                    <img width="150" height="150" src="https://cdn.tgdd.vn/Products/Images/42/74110/iphone-7-hh-400x400.jpg" data-original="https://cdn.tgdd.vn/Products/Images/42/74110/iphone-7-hh-400x400.jpg" class="lazy lazydone" style="display: block; opacity: 1;">
+                <h3>iPhone 7 32GB</h3>
+                
+                    <div class="price"><strong>15.990.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                    <div class="ratingresult">
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-gstar"></i>         
+        <span>87 đánh giá</span>
+    </div>
+
+                    <div class="promo noimage">
+            <p> Giảm 700.000đ thanh toán online bằng thẻ Mastercard</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 4.7", Retina HD</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A10 Fusion 4 nhân</span>
+                            <span>RAM: 2 GB, ROM: 32 GB</span>
+                            <span>Camera: 12 MP, Selfie: 7 MP</span>
+                            <span>PIN: 1960 mAh, SIM: 1 SIM</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=74110'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-7'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-6s-plus-32gb">
+                    <img width="150" height="150" src="https://cdn1.tgdd.vn/Products/Images/42/87846/iphone-6s-plus-32gb-hh-400x400.jpg" data-original="https://cdn1.tgdd.vn/Products/Images/42/87846/iphone-6s-plus-32gb-hh-400x400.jpg" class="lazy lazydone" style="display: block; opacity: 1;">
+                <h3>iPhone 6s Plus 32GB</h3>
+                
+                    <div class="price"><strong>13.990.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                    <div class="ratingresult">
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+        <span>149 đánh giá</span>
+    </div>
+
+                    <div class="promo noimage">
+            <p> Giảm 1.5 triệu khi mua online (Áp dụng từ 24/05) và <b>1 K.mãi</b> khác</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 5.5", Retina HD</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A9 2 nhân 64-bit</span>
+                            <span>RAM: 2 GB, ROM: 32 GB</span>
+                            <span>Camera: 12 MP, Selfie: 5 MP</span>
+                            <span>PIN: 2750 mAh</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=87846'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-6s-plus-32gb'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Thường-->
+        <li class="">
+            <a href="/dtdd/iphone-6s-32gb">
+                    <img width="150" height="150" src="https://cdn2.tgdd.vn/Products/Images/42/87842/iphone-6s-32gb-vang-dong-1-400x400.png" data-original="https://cdn2.tgdd.vn/Products/Images/42/87842/iphone-6s-32gb-vang-dong-1-400x400.png" class="lazy lazydone" style="display: block; opacity: 1;">
+                <h3>iPhone 6s 32GB</h3>
+                
+                    <div class="price"><strong>12.490.000₫</strong></div>
+                <label class="installment">Trả góp 0%</label>
+                    <div class="ratingresult">
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-gstar"></i>         
+        <span>76 đánh giá</span>
+    </div>
+
+                    <div class="promo noimage">
+            <p> Giảm 500.000đ thanh toán online bằng thẻ Mastercard</p>
+    </div>
+
+                    <figure class="bginfo">
+                            <span>Màn hình: 4.7", Retina HD</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A9 2 nhân</span>
+                            <span>RAM: 2 GB, ROM: 32 GB</span>
+                            <span>Camera: 12 MP, Selfie: 5 MP</span>
+                            <span>PIN: 1715 mAh, SIM: 1 Sim</span>
+                    </figure>
+            </a>
+
+                <div class="btnbuy">
+                    <button type="button" class="btn_buynow" onclick="location.href='/them-vao-gio-hang?ProductId=87842'">Mua</button>
+                        <button type="button" class="btn_buyins" onclick="location.href='/tra-gop/dtdd/iphone-6s-32gb'">Mua trả góp</button>
+                </div>
+        </li>
+        <!--#endregion-->
+        <!--#region Online Giá Rẻ-->
+        <li class="">
+            <a href="/dtdd/iphone-6-32gb-gold">
+                    <img width="150" height="150" src="https://cdn2.tgdd.vn/Products/Images/42/92962/iphone-6-32gb-gold-hh-400x400.jpg" data-original="https://cdn2.tgdd.vn/Products/Images/42/92962/iphone-6-32gb-gold-hh-400x400.jpg" class="lazy lazydone" style="display: block; opacity: 1;">
+                <h3>iPhone 6 32GB</h3>
+                
+                <div class="price"><strong>6.690.000₫</strong><span>7.490.000₫</span></div>
+
+                <label class="shockprice">Giá rẻ Online</label>
+                    <div class="ratingresult">
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-ystar"></i>
+            <i class="icontgdd-gstar"></i>         
+        <span>172 đánh giá</span>
+    </div>
+
+                
+                    <figure class="bginfo">
+                            <span>Màn hình: 4.7", Retina HD</span>
+                            <span>HĐH: iOS 11</span>
+                            <span>CPU: Apple A8 2 nhân 64-bit</span>
+                            <span>RAM: 1 GB, ROM: 32 GB</span>
+                            <span>Camera: 8 MP, Selfie: 1.2 MP</span>
+                            <span>PIN: 1810 mAh</span>
+                    </figure>
+            </a>
+            <div class="btnbuy">
+                <button type="button" class="btn_buynow" onclick="location.href='/dtdd/iphone-6-32gb-gold'">Xem chi tiết</button>
+            </div>
+        </li>
+        <!--#endregion-->
+</ul>
+
+
+</section>
+<!-- Tag -->
+
+<div class="catetag">
+    <div>
+            <a href="dtdd?p=duoi-1-trieu">Dưới 1 triệu</a>
+            <a href="dtdd?p=tu-1-3-trieu">Từ 1 - 3 triệu</a>
+            <a href="dtdd?p=tu-3-5-trieu">Từ 3 - 5 triệu</a>
+            <a href="dtdd?p=tu-5-10-trieu">Từ 5 - 10 triệu</a>
+    </div>
+    <div>
+            <a href="dtdd-iphone-apple">iPhone (Apple)</a>
+            <a href="dtdd-samsung">Samsung</a>
+            <a href="dtdd-oppo">OPPO</a>
+            <a href="dtdd-sony">Sony</a>
+    </div>
+    <div>
+            <a href="dtdd?f=bao-mat-van-tay">Bảo mật vân tay</a>
+            <a href="dtdd?f=man-hinh-tran-vien">Màn hình tràn viền</a>
+            <a href="dtdd?f=2-sim">2 SIM</a>
+            <a href="dtdd?f=sac-pin-cho-thiet-bi-khac">Sạc pin cho thiết bị khác</a>
+    </div>
+</div>
+
+
+
+<div class="loadingcover" style="display: none;">
+    <p class="csslder">
+        <span class="csswrap">
+            <span class="cssdot"></span>
+            <span class="cssdot"></span>
+            <span class="cssdot"></span>
+        </span>
+    </p>
+</div>
+
+    <header>
+    <div class="wrap-main">
+        <a class="logo" title="Về trang chủ Thegioididong.com" href="/">
+            <i class="icontgdd-logo"></i>
+        </a>
+        <form id="search-site" action="/tim-kiem" method="get" onsubmit="return submitSearchForm();" autocomplete="off">
+            <input class="topinput" id="search-keyword" name="key" type="text" placeholder="Bạn tìm gì..." autocomplete="off" onkeyup="SuggestSearch(event,this, 0);" maxlength="50">
+            <button class="btntop" type="submit"><i class="icontgdd-topsearch"></i></button>
+        </form>
+        <nav>
+            <a href="/dtdd" class="mobile actmenu" title="Điện thoại di động, smartphone">
+                <i class="icontgdd-mobile"></i>Điện thoại
+            </a>
+            <a href="/may-tinh-bang" class="tablet" title="Máy tính bảng, tablet">
+                <i class="icontgdd-tablet"></i>Tablet
+            </a>
+            <a href="/laptop" class="laptop" title="Máy tính xách tay, Laptop">
+                <i class="icontgdd-laptop"></i>Laptop
+            </a>
+            <a href="/phu-kien" class="phukien" title="Phụ kiện điện thoại di động, phụ kiện tablet, phụ kiện lapto">
+                <i class="icontgdd-phukien"></i>Phụ kiện
+            </a>
+            <a href="/may-doi-tra" class="maydoitra" title="Máy cũ giá rẻ, máy đổi trả thegioididong">
+                <i class="icontgdd-maydoitra"></i><span>Máy</span>Cũ giá rẻ
+            </a>
+            <a href="/khuyen-mai" class="promo" title="Các chương trình khuyến mãi tại Thegioididong">
+                <i class="icontgdd-promo"></i>Khuyến mãi
+            </a>
+            <a href="/tin-tuc" class="news" title="Tin công nghệ">
+                <i class="icontgdd-news"></i><span>Tin</span>Công Nghệ
+            </a>
+            <a href="/hoi-dap" class="ask" title="Hỏi đáp">
+                <i class="icontgdd-ask"></i>Hỏi đáp
+            </a>
+            <a href="/sim-so-dep" class="cardsim">Sim số<br>
+                Thẻ cào</a>
+            <a href="/tien-ich/thanh-toan-tra-gop?" class="utility">Đóng tiền điện,<br>
+                nước, trả góp</a>
+        </nav>
+    </div>
+    <div class="clr"></div>
+</header>
+    
+<footer>
+    <div class="rowfoot1">
+        <ul class="colfoot">
+            <li><a href="/tra-gop" title="Hướng dẫn mua trả góp">Tìm hiểu về mua trả góp</a></li>
+            <li><a href="/bao-hanh" title="Tìm trung tâm bảo hành">Chính sách bảo hành</a></li>
+            <li><a href="/chinh-sach-bao-hanh-san-pham" title="Chính sách đổi trả">Chính sách đổi trả</a></li>
+            <li><a href="/giao-hang" title="Giao hàng &amp; Thanh toán">Giao hàng &amp; Thanh toán</a></li>
+           
+            <li class="showmore"><a href="javascript:ShowMoreFooterSupportLink()" title="Xem thêm">Xem thêm</a></li>
+            <li class="hidden"><a href="/huong-dan-mua-hang" title="Hướng dẫn mua online">Hướng dẫn mua online</a></li>
+            <li class="hidden"><a href="/b2b" title="Mua hàng doanh nghiệp">Bán hàng doanh nghiệp</a></li>
+            <li class="hidden"><a href="/phieu-mua-hang" title="Phiếu mua hàng">Phiếu mua hàng</a></li>
+            <li class="hidden"><a href="//hddt.thegioididong.com" target="_blank" title="In hóa đơn điện tử" rel="nofollow">In hóa đơn điện tử</a></li>
+            <li class="hidden"><a href="/tos" title="Quy chế hoạt động">Quy chế hoạt động</a></li>
+            <li class="hidden"><a href="/noi-quy-cua-hang" title="Nội quy cửa hàng">Nội quy cửa hàng</a></li>
+            <li class="hidden"><a href="/chat-luong-phuc-vu" title="Chất lượng phục vụ">Chất lượng phục vụ</a></li>
+            <li class="hidden"><a href="/trao-thuong" title="Thông tin trao thưởng">Thông tin trao thưởng</a></li>
+        </ul>
+        <ul class="colfoot">
+            <li><a href="http://mwg.vn" target="_blank" title="Giới thiệu công ty (mwg.vn)">Giới thiệu công ty <span>(mwg.vn)</span></a></li>
+            <li><a href="//vieclam.thegioididong.com" target="_blank" title="Tuyển dụng">Tuyển dụng</a></li>
+            <li><a href="/lien-he" title="Gửi góp ý, khiếu nại">Gửi góp ý, khiếu nại</a></li>
+            <li><a href="/he-thong-sieu-thi-the-gioi-di-dong" title="Tìm siêu thị (1745  shop)">Tìm siêu thị <span>(1745 shop)</span></a></li>
+                <li>
+                    <a class="viewmb" rel="nofollow" href="javascript:window.location.href='/dtdd-apple-iphone?sclient=mobile'" title="Xem bản mobile">Xem bản mobile</a>
+                </li>
+        </ul>
+        <ul class="colfoot">
+            <li>
+                <p>Gọi mua hàng <a href="tel:18001060">1800.1060</a> (7:30 - 22:00)</p>
+                <p>Gọi khiếu nại <a href="tel:18001062">1800.1062</a> (8:00 - 21:30)</p>
+                <p>Gọi bảo hành <a href="tel:18001064">1800.1064</a> (8:00 - 21:00)</p>
+                <p>Hỗ trợ kỹ thuật <a href="tel:18001763">1800.1763</a> (7:30 - 22:00)</p>
+                <a target="_blank" rel="nofollow" class="bct" href="http://online.gov.vn/HomePage/CustomWebsiteDisplay.aspx?DocId=20098"><i class="icontgdd-bct"></i></a>
+                <a href="https://www.dmca.com/Protection/Status.aspx?ID=5b62e759-2a0c-4d86-b972-af903bfbc89d&amp;refurl=https://www.thegioididong.com/dtdd-apple-iphone" title="DMCA.com Protection Status" class="dmca-badge"> <img style="opacity:0.01" src="//images.dmca.com/Badges/dmca-badge-w100-5x1-11.png?ID=5b62e759-2a0c-4d86-b972-af903bfbc89d" alt="DMCA.com Protection Status"></a> <script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WKQZL8"></script><script async="" src="https://cdn3.tgdd.vn/v2015/Scripts/analytics.js"></script><script src="//images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script> 
+            <script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/947481767/?random=1527682119746&amp;cv=9&amp;fst=1527682119746&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=768&amp;u_w=1366&amp;u_ah=738&amp;u_aw=1366&amp;u_cd=24&amp;u_his=20&amp;u_tz=420&amp;u_java=false&amp;u_nplug=4&amp;u_nmime=5&amp;gtm=G4s&amp;sendb=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.thegioididong.com%2Fdtdd-apple-iphone&amp;ref=https%3A%2F%2Fwww.google.com.vn%2F&amp;tiba=%C4%90i%E1%BB%87n%20tho%E1%BA%A1i%20Apple%20iPhone%20ch%C3%ADnh%20h%C3%A3ng%2C%20tr%E1%BA%A3%20g%C3%B3p%200%25%20-%20Gi%C3%A1%20th%C3%A1ng%205%2F2018&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></li>
+        </ul>
+        <ul class="colfoot collast">
+            <li>
+                <a target="_blank" href="https://facebook.com/thegioididongcom" class="linkfb">
+                    <i class="icontgdd-share1"></i>3.2tr
+                </a>
+                <a target="_blank" href="https://www.youtube.com/user/TGDDVideoReviews?sub_confirmation=1" class="linkyt">
+                    <i class="icontgdd-share3"></i>375.7k
+                </a>
+                <div class="group">
+                    <label>Website cùng tập đoàn:</label>
+                    <a href="//www.dienmayxanh.com" target="_blank" rel="noopener" class="dm"><i class="iconlogo-dmx"></i></a>
+                    <a href="//www.bachhoaxanh.com" target="_blank" rel="noopener" class="bhx"><i class="iconlogo-bhx"></i></a>
+                    <a href="//www.vuivui.com" target="_blank" rel="noopener" class="vv"><i class="iconlogo-vv"></i></a>
+                    <a href="//www.trananh.vn" target="_blank" rel="noopener" class="vv"><i class="iconlogo-ta"></i></a>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="rowfoot2">
+        <p>© 2017. Công ty cổ phần Thế Giới Di Động. GPDKKD: 0303217354 do sở KH &amp; ĐT TP.HCM cấp ngày 02/01/2007. GP số 22/GP-ICP-STTTT do Sở TTTT TP HCM cấp ngày 20/03/2012.
+Địa chỉ: 128 Trần Quang Khải, P. Tân Định, Q.1, TP.Hồ Chí Minh. Điện thoại: 18001060. Email: cskh@thegioididong.com. Chịu trách nhiệm nội dung: Huỳnh Văn Tốt. <a href="/tos">Xem chính sách sử dụng web</a></p>
+    </div>
+</footer>
+    <p id="back-top" style="display: block;">
+        <a href="#top" title="Về Đầu Trang"><span></span></a>
+    </p>
+
+    <script type="text/javascript">
+        var query = {
+            Category : 42,
+            Manufacture : 80,
+            PriceRange : 0,
+            Feature : 0,
+            Property: 0,
+            OrderBy : 0,
+            PageSize : 20,
+            PageIndex : 0,
+            Others: '',
+            ClearCache : 0
+            };
+        var advanceQuery = {
+            Category : 42,
+            Manufacture : '80',
+            PriceRange : 0,
+            Feature : '',
+            Property: '',
+            OrderBy : 0,
+            PageSize : 28,
+            PageIndex : 0,
+            Count : 0,
+            Others: '',
+            ClearCache : 0
+            };
+        var GL_CATEGORYID = 42;
+        var GL_MANUFACTUREID = 80;
+    </script>
+        <script defer="defer" async="async" src="https://cdn4.tgdd.vn/v2015/Scripts/desktop/V5/category.min.v201805221030.js"></script>
+        <script>
+        //<!--#region GA -->
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://cdn3.tgdd.vn/v2015/Scripts/analytics.js', 'ga');
+        ga('create', 'UA-918185-25', 'auto', { 'siteSpeedSampleRate': 10 });
+        //<!--#endregion -->
+
+        
+        window.onload = function(){
+            ga('send', 'pageview');
+            //<!-- #regionGoogle Tag Manager -->
+            setTimeout(
+                function () {
+                    (function (w, d, s, l, i) {
+                        w[l] = w[l] || []; w[l].push({
+                            'gtm.start':
+                            new Date().getTime(), event: 'gtm.js'
+                        }); var f = d.getElementsByTagName(s)[0],
+                        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+                    })(window, document, 'script', 'dataLayer', 'GTM-WKQZL8');
+                }
+            , 3000);
+            //<!--#endregion -->
+        };
+        
+                //<!--#region TGDD TRACKING -->
+        var mysessionid = 'mlhpyp4rcsbtfk1rtkc1t0ic';
+        var g_version = '201805300605';
+        var tgddctr_urlroot = '//www.thegioididong.com/tracking';
+        //<!--#endregion -->
+        var rooturl = '.thegioididong.com';
+        var isMobile = false;
+    </script>
+    <!--#region CrazyEgg -->
+    
+    <!--#endregion -->
+
+    <!--#region Hotjar -->
+    
+    <!--#endregion -->
+    <div id="dlding">Đang xử lý, vui lòng đợi trong giây lát...</div>
+
+
+<div style="display: none; visibility: hidden;">
+<script>!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","1634413043451608");fbq("track","PageView");"undefined"!=typeof productID&&fbq("track","ViewContent");
+1==$("#wrap_cart").length&&fbq("track","AddToCart");</script>
+<noscript></noscript>
+</div><div style="display: none; visibility: hidden;"><script>function LoadReources(){POSTAjax("/aj/common/GetLocalStorage",{},function(){},function(b){if(void 0==localStorage.reources||""==localStorage.reources)for(var a=0;a<b.data.length;a++){var c=b.data[a].File;$("body").append('\x3cimg src\x3d"'+c+'" height\x3d"0" width\x3d"0" alt\x3d"script" style\x3d"display:none;"\x3e')}else{var d=JSON.parse(localStorage.reources);for(a=0;a<b.data.length;a++)d[a].File!=b.data[a].File&&(c=b.data[a].File,$("body").append('\x3cimg src\x3d"'+c+'" height\x3d"0" width\x3d"0" alt\x3d"script"  style\x3d"display:none;"\x3e'))}localStorage.reources=
+JSON.stringify(b.data)},function(){},!0);return!1}LoadReources();</script></div><div style="display: none; visibility: hidden;"><script>var rooturl=".thegioididong.com";function CreateCookie(b,a,c){var d=new Date;d.setDate(d.getDate()+c);a=escape(a)+(null==c?"":"; visited\x3dtrue; path\x3d/; domain\x3d"+rooturl+"; expires\x3d"+d.toUTCString()+";");document.cookie=b+"\x3d"+a}function CreateCookieWithHour(b,a,c){var d=new Date;d.setMinutes(d.getMinutes()+c);a=escape(a)+(null==c?"":"; visited\x3dtrue; path\x3d/; domain\x3d"+rooturl+"; expires\x3d"+d.toUTCString()+";");document.cookie=b+"\x3d"+a}
+function getCookie(b){var a,c=document.cookie.split(";");for(a=0;a<c.length;a++){var d=c[a].substr(0,c[a].indexOf("\x3d"));var e=c[a].substr(c[a].indexOf("\x3d")+1);d=d.replace(/^\s+|\s+$/g,"");if(d==b)return unescape(e)}}function Delete_Cookie(b,a,c){getCookie(b)&&(document.cookie=b+"\x3d"+(a?";path\x3d"+a:"")+(c?";domain\x3d"+c:"")+";expires\x3dThu, 01 Jan 1970 00:00:01 GMT")}
+function trda(b,a,c,d){c="undefined"!==typeof c?c:-1;d="undefined"!==typeof d?d:-1;a="undefined"!==typeof a?a:"PageView";var e=getCookie("rdtgdd_uuid");e||(e=formatUuidRD(getRandomValuesFuncRD()),CreateCookie("rdtgdd_uuid",e,365));var f=getCookie("rdtgdd_sid");f||(f=generateQuickGuidRD(),CreateCookie("rdtgdd_sid",f,.02));var g=document.referrer,h=window.location.href,k=navigator.userAgent;$.post("//priceinfo.thegioididong.com/api/Tracking",{Cookie:e,Session:f,RefUrl:g,Url:h,UserAgent:k,SiteID:b,PageStatus:a,
+ProductID:c,NumberItem:d})}function generateQuickGuidRD(){return Math.random().toString(36).substring(2,15)+Math.random().toString(36).substring(2,15)}
+var lut=Array(256).fill().map(function(b,a){return(16>a?"0":"")+a.toString(16)}),formatUuidRD=function(b){var a=b.d0,c=b.d1,d=b.d2;b=b.d3;return lut[a&255]+lut[a>>8&255]+lut[a>>16&255]+lut[a>>24&255]+"-"+lut[c&255]+lut[c>>8&255]+"-"+lut[c>>16&15|64]+lut[c>>24&255]+"-"+lut[d&63|128]+lut[d>>8&255]+"-"+lut[d>>16&255]+lut[d>>24&255]+lut[b&255]+lut[b>>8&255]+lut[b>>16&255]+lut[b>>24&255]},getRandomValuesFuncRD=window.crypto&&window.crypto.getRandomValues?function(){var b=new Uint32Array(4);window.crypto.getRandomValues(b);
+return{d0:b[0],d1:b[1],d2:b[2],d3:b[3]}}:function(){return{d0:4294967296*Math.random()>>>0,d1:4294967296*Math.random()>>>0,d2:4294967296*Math.random()>>>0,d3:4294967296*Math.random()>>>0}};trda("1");</script></div><script type="text/javascript" id="" src="https://www.gstatic.com/firebasejs/4.8.1/firebase.js"></script>
+<script type="text/javascript" id="" src="https://www.gstatic.com/firebasejs/4.8.1/firebase-messaging.js"></script>
+<script type="text/javascript" id="">var config={apiKey:"AIzaSyB-Wdu8SrRJshESlRPSeDSECFma0YQKZ6s",authDomain:"vuivuilocal.firebaseapp.com",databaseURL:"https://vuivuilocal.firebaseio.com",projectId:"vuivuilocal",storageBucket:"",messagingSenderId:"851337506445"};firebase.initializeApp(config);var messaging=firebase.messaging();messaging.requestPermission().then(function(){console.log("Notification permission granted.")}).catch(function(a){console.log("Unable to get permission to notify.",a)});
+messaging.getToken().then(function(a){console.log("Token: "+a)}).catch(function(a){console.log("Unable to retrieve token ",a)});messaging.onTokenRefresh(function(){messaging.getToken().then(function(a){console.log("Token refreshed: "+a)}).catch(function(a){console.log("Unable to retrieve refreshed token ",a)})});messaging.onMessage(function(a){"function"==typeof showFirebaseMsg&&showFirebaseMsg(a)});
+function showFirebaseMsg(a){if(void 0!=a&&void 0!=a.data)if("Notification"in window){var b=new Notification(a.data.title,a.data);b.onclick=function(c){c.preventDefault();b.close();if(""!==a.data.tag){if(getPathFromUrl(document.location.href)===getPathFromUrl(a.data.tag))return!0;window.open(a.data.tag,"_blank")}return!0}}else console.log("This browser does not support desktop notification")}function getPathFromUrl(a){return a.split(/[?#]/)[0]};</script><div id="notifychatmsg" class="chattgdd" style="bottom: 100px; top: auto; right: 2px; left: auto; display: none;"><div class="notifyChat2  "><a href="javascript:void(0)" onclick="requestChatAuto('');"><img class="notifyChat2img" src="https://cdn.thegioididong.com/dmxchat/iconinvitechat_1.v201705000040.png"></a><a class="btnRqChat" href="javascript:void(0)" onclick="requestChatAuto('');">Hỗ trợ online</a></div></div><div id="notifychatmsgmin" style="display: none;"> </div><div id="notifychatnewmsg" style="position: fixed; top: 200px; left: 412.5px;"> </div><div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button><h4 class="modal-title" id="myModalLabel">Bình luận của bạn đã được trả lời</h4></div><div class="modal-body" id="chat-invite-body">{%content%}</div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Đóng lại</button><button type="button" class="btn btn-primary" id="review_answer">Xem lại trả lời</button><button type="button" class="btn btn-primary" data-dismiss="modal" onclick="acceptChat()" id="chat_with_admin">Chat ngay với QTV</button></div></div></div></div><div style="clear:both;"></div><div id="chatclient-back"></div>  <div id="chatclient"><div class="navbar navbar-inverse navbar-fixed-bottom chattgdd" style="bottom: 2px; top: auto;"><div id="divmsg"></div><ul class="pages" style="height: 500px;"><li class="chat page" style="height: 500px;"> <div class="operator-info"></div><div class="chatArea" style="height: 455px;"><form onsubmit="return false;"><div id="collectdata" style="height: 500px;"></div></form><form onsubmit="return false;"><div id="chatcloseconfirm"> xxx</div></form><div id="chatrating">Cảm ơn bạn đã sử dụng dịch vụ của TGDD.<br> </div> <ul class="messages" style="display: none; height: 455px;"></ul></div><div class="chatwait" id="chatwait" style="  height: 22px;   "></div><div class="chatinputarea" style="display: none;"><form onsubmit="return false;"><table style="width:100%;padding:0px;margin:0px"><tbody><tr><td style="width: 42px; ">  <input id="upload-image" type="file" multiple="" class="upload-image" itemid="0" title="Chèn ảnh kích thước tối đa 1MB/hình" name="file"><img id="insertimage" class="chatfunctions-insertimg" src="https://cdn.thegioididong.com/dmxchat/chenhinh_tgdd.v201705000040.png">  </td><td> <textarea class="chatinput fe" placeholder="Nhập nội dung bạn muốn gửi và nhấn Gửi" disabled="disabled"></textarea></td><td style="width: 50px; "><button id="sendchat" class="chatfunctions-sendchat">Gửi</button> </td></tr></tbody></table></form>  </div></li></ul></div><div id="chattooltipmsg" class="minimize" onclick="maximizeChatWindow()" style="bottom: 100px; top: auto; right: 2px; left: auto;"><div style="position: relative;"><div class="msgalert">!</div><div style="z-index: -1;top: 2px;width: 216px;right:60px;height: 45px;display: none;" id="tooltip349481" class="tooltip fade left in" role="tooltip"> <div class="tooltip-inner"></div></div><div class="operator-info-min"></div></div></div></div><div id="chatclient-backfull"></div></body>

@@ -1,0 +1,1435 @@
+﻿<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W84P7P"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div id="fb-root"></div>
+    
+
+
+<style>
+.viewgrid .fs-ilap-ch>ul>li,
+.viewgrid .fs-ilap-ch>ul>li label,
+.viewgrid .fs-ilap-ch>ul>li span {
+     display: block !important;
+}
+
+.viewgrid .fs-dttrate {display :block;}
+.viewgrid .fs-lpil .fs-dttrate { padding: 0 20px;}
+.viewgrid.fs-row4 .fs-lpil {
+    width: 25%;
+    margin-bottom: 6px;
+	height: 380px;
+}
+
+</style>
+<section class="fs-main" data-s="/dien-thoai/apple-iphone">
+    <div class="f-wrap">
+        <ul class="fs-breadcrumb">
+            <li><a href="/" title="">Trang chủ</a></li>
+            <li data-rot="1"><a href="/dien-thoai" title="">Điện thoại</a></li>
+        </ul>
+            <div class="fs-ctbn fs-ctbnfill">
+        <div class="owl-carousel fsicte owl-loaded owl-drag" data-items="2">
+            
+            
+            
+        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: 0s; width: 1800px;"><div class="owl-item active" style="width: 600px;"><div class="item">
+               
+                    <a id="filterbanner1" href="https://fptshop.com.vn/ctkm/microsoft-office-365-cho-android" title="">
+                        <img src="//cdn.fptshop.com.vn/Uploads/Originals/2018/5/1/636607327501187276_C3_ Android.png">
+                    </a>
+               
+            </div></div><div class="owl-item active" style="width: 600px;"><div class="item">
+               
+                    <a id="filterbanner2" href="https://fptshop.com.vn/ctkm/xiaomi-redmi-note-5" title="">
+                        <img src="//cdn.fptshop.com.vn/Uploads/Originals/2018/5/8/636614141994843416_RedmiNote5-C3.jpg">
+                    </a>
+               
+            </div></div><div class="owl-item" style="width: 600px;"><div class="item">
+               
+                    <a id="filterbanner3" href="https://fptshop.com.vn/ctkm/xiaomi-redmi-s2" title="">
+                        <img src="//cdn.fptshop.com.vn/Uploads/Originals/2018/5/21/636625439537573020_XiaomiRedmiS2-C3.jpg">
+                    </a>
+               
+            </div></div></div></div><div class="owl-nav"><div class="owl-prev disabled"></div><div class="owl-next"></div></div><div class="owl-dots disabled"></div></div>
+    </div>
+
+        <div class="fs-ctf-row clearfix">
+            <div class="fs-ctf-cl">
+                <h2 class="fs-ctfl-tit">Bộ lọc</h2>
+                <div class="fs-ctf-rmain">
+                        <div class="fs-ctf-ri">
+                            <h4 class="fs-ctf-ritit" data-toggle="collapse" data-target="#hang-san-xuat" aria-expanded="true">Hãng sản xuất</h4>
+                            <div class="fs-ctf-ribox collapse in" id="hang-san-xuat">
+                                    <div class="fs-ctf-risearch">
+                                        <input class="txtthuonghieu" type="text" placeholder="Tìm thương hiệu">
+                                    </div>
+
+                                <div class="fs-ctf-scroll mCustomScrollbar _mCS_1"><div id="mCSB_1" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" style="max-height: 270px;" tabindex="0"><div id="mCSB_1_container" class="mCSB_container" style="position:relative; top:0; left:0;" dir="ltr">
+                                    <ul class="listfilterv4  filterBrand" data-query="hang-san-xuat">
+                                        <li data-search="" data-value="" data-id="0" class=""><a href="" title="Tất cả">Tất cả</a></li>
+
+                                            <li data-search="Apple (iPhone)apple (iphone)APPLE (IPHONE)" data-name="Apple (iPhone)" data-value="apple-iphone" class="active"><a href="javascript:;" data-value="apple-iphone" data-id="157" title="apple-iphone">Apple (iPhone)</a></li>
+                                            <li data-search="SamsungsamsungSAMSUNG" data-name="Samsung" data-value="samsung" class=""><a href="javascript:;" data-value="samsung" data-id="159" title="samsung">Samsung</a></li>
+                                            <li data-search="OPPOoppoOPPO" data-name="OPPO" data-value="oppo" class=""><a href="javascript:;" data-value="oppo" data-id="403" title="oppo">OPPO</a></li>
+                                            <li data-search="SonysonySONY" data-name="Sony" data-value="sony" class=""><a href="javascript:;" data-value="sony" data-id="158" title="sony">Sony</a></li>
+                                            <li data-search="NokianokiaNOKIA" data-name="Nokia" data-value="nokia" class=""><a href="javascript:;" data-value="nokia" data-id="161" title="nokia">Nokia</a></li>
+                                            <li data-search="VivovivoVIVO" data-name="Vivo" data-value="vivo" class=""><a href="javascript:;" data-value="vivo" data-id="1701" title="vivo">Vivo</a></li>
+                                            <li data-search="AsusasusASUS" data-name="Asus" data-value="asus" class=""><a href="javascript:;" data-value="asus" data-id="163" title="asus">Asus</a></li>
+                                            <li data-search="HuaweihuaweiHUAWEI" data-name="Huawei" data-value="huawei" class=""><a href="javascript:;" data-value="huawei" data-id="173" title="huawei">Huawei</a></li>
+                                            <li data-search="MasstelmasstelMASSTEL" data-name="Masstel" data-value="masstel" class=""><a href="javascript:;" data-value="masstel" data-id="456" title="masstel">Masstel</a></li>
+                                            <li data-search="MEIZUmeizuMEIZU" data-name="MEIZU" data-value="meizu" class=""><a href="javascript:;" data-value="meizu" data-id="1697" title="meizu">MEIZU</a></li>
+                                            <li data-search="MobiistarmobiistarMOBIISTAR" data-name="Mobiistar" data-value="mobiistar" class=""><a href="javascript:;" data-value="mobiistar" data-id="177" title="mobiistar">Mobiistar</a></li>
+                                            <li data-search="PhilipsphilipsPHILIPS" data-name="Philips" data-value="philips" class=""><a href="javascript:;" data-value="philips" data-id="421" title="philips">Philips</a></li>
+                                            <li data-search="WikowikoWIKO" data-name="Wiko" data-value="wiko" class=""><a href="javascript:;" data-value="wiko" data-id="1898" title="wiko">Wiko</a></li>
+                                            <li data-search="TecnotecnoTECNO" data-name="Tecno" data-value="tecno" class=""><a href="javascript:;" data-value="tecno" data-id="1928" title="tecno">Tecno</a></li>
+                                            <li data-search="ItelitelITEL" data-name="Itel" data-value="itel" class=""><a href="javascript:;" data-value="itel" data-id="1931" title="itel">Itel</a></li>
+                                            <li data-search="XiaomixiaomiXIAOMI" data-name="Xiaomi" data-value="xiaomi" class=""><a href="javascript:;" data-value="xiaomi" data-id="1933" title="xiaomi">Xiaomi</a></li>
+                                    </ul>
+                                </div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: block;"><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; display: block; height: 140px; max-height: 260px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+
+                            </div>
+                        </div>
+                        <div class="fs-ctf-ri">
+                            <h4 class="fs-ctf-ritit" data-toggle="collapse" data-target="#muc-gia" aria-expanded="true">Mức giá</h4>
+                            <div class="fs-ctf-ribox collapse in" id="muc-gia">
+
+                                <div class="fs-ctf-scroll mCustomScrollbar _mCS_2 mCS_no_scrollbar"><div id="mCSB_2" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" style="max-height: none;" tabindex="0"><div id="mCSB_2_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+                                    <ul class="listfilterv4 filterPrice " data-query="muc-gia">
+                                        <li data-search="" data-value="" data-id="0" class="active"><a href="" title="Tất cả">Tất cả</a></li>
+
+                                            <li data-search="Dưới 1 triệudưới 1 triệuDƯỚI 1 TRIỆU" data-name="Dưới 1 triệu" data-value="duoi-1-trieu" class=""><a href="javascript:;" data-value="duoi-1-trieu" data-id="446" title="duoi-1-trieu">Dưới 1 triệu</a></li>
+                                            <li data-search="Từ 1 - 3 triệutừ 1 - 3 triệuTỪ 1 - 3 TRIỆU" data-name="Từ 1 - 3 triệu" data-value="tu-1-3-trieu" class=""><a href="javascript:;" data-value="tu-1-3-trieu" data-id="447" title="tu-1-3-trieu">Từ 1 - 3 triệu</a></li>
+                                            <li data-search="Từ 3 - 6 triệutừ 3 - 6 triệuTỪ 3 - 6 TRIỆU" data-name="Từ 3 - 6 triệu" data-value="tu-3-6-trieu" class=""><a href="javascript:;" data-value="tu-3-6-trieu" data-id="448" title="tu-3-6-trieu">Từ 3 - 6 triệu</a></li>
+                                            <li data-search="Từ 6 - 10 triệutừ 6 - 10 triệuTỪ 6 - 10 TRIỆU" data-name="Từ 6 - 10 triệu" data-value="tu-6-10-trieu" class=""><a href="javascript:;" data-value="tu-6-10-trieu" data-id="449" title="tu-6-10-trieu">Từ 6 - 10 triệu</a></li>
+                                            <li data-search="Từ 10 - 15 triệutừ 10 - 15 triệuTỪ 10 - 15 TRIỆU" data-name="Từ 10 - 15 triệu" data-value="tu-10-15-trieu" class=""><a href="javascript:;" data-value="tu-10-15-trieu" data-id="1927" title="tu-10-15-trieu">Từ 10 - 15 triệu</a></li>
+                                            <li data-search="Trên 15 triệutrên 15 triệuTRÊN 15 TRIỆU" data-name="Trên 15 triệu" data-value="tren-15-trieu" class=""><a href="javascript:;" data-value="tren-15-trieu" data-id="450" title="tren-15-trieu">Trên 15 triệu</a></li>
+                                    </ul>
+                                </div><div id="mCSB_2_scrollbar_vertical" class="mCSB_scrollTools mCSB_2_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_2_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; height: 0px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+
+                            </div>
+                        </div>
+                        <div class="fs-ctf-ri">
+                            <h4 class="fs-ctf-ritit" data-toggle="collapse" data-target="#tinh-nang-noi-bat" aria-expanded="false">Tính năng nổi bật</h4>
+                            <div class="fs-ctf-ribox collapse " id="tinh-nang-noi-bat">
+
+                                <div class="fs-ctf-scroll mCustomScrollbar _mCS_3 mCS_no_scrollbar"><div id="mCSB_3" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" style="max-height: 0px;" tabindex="0"><div id="mCSB_3_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+                                    <ul class="listfilterv4  " data-query="tinh-nang-noi-bat">
+                                        <li data-search="" data-value="" data-id="0" class="active"><a href="" title="Tất cả">Tất cả</a></li>
+
+                                            <li data-search="Cảm biến vân taycảm biến vân tayCẢM BIẾN VÂN TAY" data-name="Cảm biến vân tay" data-value="cam-bien-van-tay" class=""><a href="javascript:;" data-value="cam-bien-van-tay" data-id="1937" title="cam-bien-van-tay">Cảm biến vân tay</a></li>
+                                            <li data-search="Quét mống mắtquét mống mắtQUÉT MỐNG MẮT" data-name="Quét mống mắt" data-value="quet-mong-mat" class=""><a href="javascript:;" data-value="quet-mong-mat" data-id="1938" title="quet-mong-mat">Quét mống mắt</a></li>
+                                            <li data-search="Chống nước, bụichống nước, bụiCHỐNG NƯỚC, BỤI" data-name="Chống nước, bụi" data-value="chong-nuoc-bui" class=""><a href="javascript:;" data-value="chong-nuoc-bui" data-id="1939" title="chong-nuoc-bui">Chống nước, bụi</a></li>
+                                            <li data-search="Màn hình tràn viềnmàn hình tràn viềnMÀN HÌNH TRÀN VIỀN" data-name="Màn hình tràn viền" data-value="man-hinh-tran-vien" class=""><a href="javascript:;" data-value="man-hinh-tran-vien" data-id="1940" title="man-hinh-tran-vien">Màn hình tràn viền</a></li>
+                                            <li data-search="Quay phim Super Slow Motionquay phim super slow motionQUAY PHIM SUPER SLOW MOTION" data-name="Quay phim Super Slow Motion" data-value="quay-phim-super-slow-motion" class=""><a href="javascript:;" data-value="quay-phim-super-slow-motion" data-id="1941" title="quay-phim-super-slow-motion">Quay phim Super Slow Motion</a></li>
+                                            <li data-search="Camera sau khủng > 12.0MPcamera sau khủng > 12.0mpCAMERA SAU KHỦNG > 12.0MP" data-name="Camera sau khủng > 12.0MP" data-value="camera-sau-khung->-120mp" class=""><a href="javascript:;" data-value="camera-sau-khung->-120mp" data-id="1942" title="camera-sau-khung->-120mp">Camera sau khủng &gt; 12.0MP</a></li>
+                                            <li data-search="Camera Selfie đẹp > 5.0MPcamera selfie đẹp > 5.0mpCAMERA SELFIE ĐẸP > 5.0MP" data-name="Camera Selfie đẹp > 5.0MP" data-value="camera-selfie-dep->-50mp" class=""><a href="javascript:;" data-value="camera-selfie-dep->-50mp" data-id="1943" title="camera-selfie-dep->-50mp">Camera Selfie đẹp &gt; 5.0MP</a></li>
+                                            <li data-search="Quay phim 4Kquay phim 4kQUAY PHIM 4K" data-name="Quay phim 4K" data-value="quay-phim-4k" class=""><a href="javascript:;" data-value="quay-phim-4k" data-id="1944" title="quay-phim-4k">Quay phim 4K</a></li>
+                                            <li data-search="Sạc nhanhsạc nhanhSẠC NHANH" data-name="Sạc nhanh" data-value="sac-nhanh" class=""><a href="javascript:;" data-value="sac-nhanh" data-id="1945" title="sac-nhanh">Sạc nhanh</a></li>
+                                            <li data-search="2 SIM2 sim2 SIM" data-name="2 SIM" data-value="2-sim" class=""><a href="javascript:;" data-value="2-sim" data-id="1946" title="2-sim">2 SIM</a></li>
+                                            <li data-search="Hỗ trợ 4Ghỗ trợ 4gHỖ TRỢ 4G" data-name="Hỗ trợ 4G" data-value="ho-tro-4g" class=""><a href="javascript:;" data-value="ho-tro-4g" data-id="1947" title="ho-tro-4g">Hỗ trợ 4G</a></li>
+                                            <li data-search="Pin khủng (>3000 mAh)pin khủng (>3000 mah)PIN KHỦNG (>3000 MAH)" data-name="Pin khủng (>3000 mAh)" data-value="pin-khung->3000-mah" class=""><a href="javascript:;" data-value="pin-khung->3000-mah" data-id="1632" title="pin-khung->3000-mah">Pin khủng (&gt;3000 mAh)</a></li>
+                                            <li data-search="Sạc cho thiết bị khácsạc cho thiết bị khácSẠC CHO THIẾT BỊ KHÁC" data-name="Sạc cho thiết bị khác" data-value="sac-cho-thiet-bi-khac" class=""><a href="javascript:;" data-value="sac-cho-thiet-bi-khac" data-id="1949" title="sac-cho-thiet-bi-khac">Sạc cho thiết bị khác</a></li>
+                                    </ul>
+                                </div><div id="mCSB_3_scrollbar_vertical" class="mCSB_scrollTools mCSB_3_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_3_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+
+                            </div>
+                        </div>
+                        <div class="fs-ctf-ri">
+                            <h4 class="fs-ctf-ritit" data-toggle="collapse" data-target="#man-hinh" aria-expanded="false">Màn hình</h4>
+                            <div class="fs-ctf-ribox collapse " id="man-hinh">
+
+                                <div class="fs-ctf-scroll mCustomScrollbar _mCS_4 mCS_no_scrollbar"><div id="mCSB_4" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" style="max-height: 0px;" tabindex="0"><div id="mCSB_4_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+                                    <ul class="listfilterv4  " data-query="man-hinh">
+                                        <li data-search="" data-value="" data-id="0" class="active"><a href="" title="Tất cả">Tất cả</a></li>
+
+                                            <li data-search="Dưới 3 inchdưới 3 inchDƯỚI 3 INCH" data-name="Dưới 3 inch" data-value="duoi-3-inch" class=""><a href="javascript:;" data-value="duoi-3-inch" data-id="184" title="duoi-3-inch">Dưới 3 inch</a></li>
+                                            <li data-search="Khoảng 4 inchkhoảng 4 inchKHOẢNG 4 INCH" data-name="Khoảng 4 inch" data-value="khoang-4-inch" class=""><a href="javascript:;" data-value="khoang-4-inch" data-id="186" title="khoang-4-inch">Khoảng 4 inch</a></li>
+                                            <li data-search="Khoảng 5 inchkhoảng 5 inchKHOẢNG 5 INCH" data-name="Khoảng 5 inch" data-value="khoang-5-inch" class=""><a href="javascript:;" data-value="khoang-5-inch" data-id="187" title="khoang-5-inch">Khoảng 5 inch</a></li>
+                                            <li data-search="Khoảng 6 inchkhoảng 6 inchKHOẢNG 6 INCH" data-name="Khoảng 6 inch" data-value="khoang-6-inch" class=""><a href="javascript:;" data-value="khoang-6-inch" data-id="188" title="khoang-6-inch">Khoảng 6 inch</a></li>
+                                    </ul>
+                                </div><div id="mCSB_4_scrollbar_vertical" class="mCSB_scrollTools mCSB_4_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_4_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+
+                            </div>
+                        </div>
+                        <div class="fs-ctf-ri">
+                            <h4 class="fs-ctf-ritit" data-toggle="collapse" data-target="#he-dieu-hanh" aria-expanded="false">Hệ điều hành</h4>
+                            <div class="fs-ctf-ribox collapse " id="he-dieu-hanh">
+
+                                <div class="fs-ctf-scroll mCustomScrollbar _mCS_5 mCS_no_scrollbar"><div id="mCSB_5" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" style="max-height: 0px;" tabindex="0"><div id="mCSB_5_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+                                    <ul class="listfilterv4  " data-query="he-dieu-hanh">
+                                        <li data-search="" data-value="" data-id="0" class="active"><a href="" title="Tất cả">Tất cả</a></li>
+
+                                            <li data-search="iOSiosIOS" data-name="iOS" data-value="ios" class=""><a href="javascript:;" data-value="ios" data-id="178" title="ios">iOS</a></li>
+                                            <li data-search="AndroidandroidANDROID" data-name="Android" data-value="android" class=""><a href="javascript:;" data-value="android" data-id="179" title="android">Android</a></li>
+                                            <li data-search="Windows Phonewindows phoneWINDOWS PHONE" data-name="Windows Phone" data-value="windows-phone" class=""><a href="javascript:;" data-value="windows-phone" data-id="180" title="windows-phone">Windows Phone</a></li>
+                                    </ul>
+                                </div><div id="mCSB_5_scrollbar_vertical" class="mCSB_scrollTools mCSB_5_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_5_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+
+                            </div>
+                        </div>
+                        <div class="fs-ctf-ri">
+                            <h4 class="fs-ctf-ritit" data-toggle="collapse" data-target="#khac" aria-expanded="false">Khác</h4>
+                            <div class="fs-ctf-ribox collapse " id="khac">
+
+                                <div class="fs-ctf-scroll mCustomScrollbar _mCS_6 mCS_no_scrollbar"><div id="mCSB_6" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" style="max-height: 0px;" tabindex="0"><div id="mCSB_6_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+                                    <ul class="listfilterv4  " data-query="khac">
+                                        <li data-search="" data-value="" data-id="0" class="active"><a href="" title="Tất cả">Tất cả</a></li>
+
+                                            <li data-search="Điện thoại hot nhấtđiện thoại hot nhấtĐIỆN THOẠI HOT NHẤT" data-name="Điện thoại hot nhất" data-value="dien-thoai-hot-nhat" class=""><a href="javascript:;" data-value="dien-thoai-hot-nhat" data-id="1915" title="dien-thoai-hot-nhat">Điện thoại hot nhất</a></li>
+                                            <li data-search="Điện thoại mới ra mắtđiện thoại mới ra mắtĐIỆN THOẠI MỚI RA MẮT" data-name="Điện thoại mới ra mắt" data-value="dien-thoai-moi-ra-mat" class=""><a href="javascript:;" data-value="dien-thoai-moi-ra-mat" data-id="1916" title="dien-thoai-moi-ra-mat">Điện thoại mới ra mắt</a></li>
+                                            <li data-search="Điện thoại dưới 10 triệu đồngđiện thoại dưới 10 triệu đồngĐIỆN THOẠI DƯỚI 10 TRIỆU ĐỒNG" data-name="Điện thoại dưới 10 triệu đồng" data-value="dien-thoai-duoi-10-trieu-dong" class=""><a href="javascript:;" data-value="dien-thoai-duoi-10-trieu-dong" data-id="1917" title="dien-thoai-duoi-10-trieu-dong">Điện thoại dưới 10 triệu đồng</a></li>
+                                            <li data-search="Điện thoại nhiếp ảnhđiện thoại nhiếp ảnhĐIỆN THOẠI NHIẾP ẢNH" data-name="Điện thoại nhiếp ảnh" data-value="dien-thoai-nhiep-anh" class=""><a href="javascript:;" data-value="dien-thoai-nhiep-anh" data-id="1918" title="dien-thoai-nhiep-anh">Điện thoại nhiếp ảnh</a></li>
+                                            <li data-search="Điện thoại pin khủngđiện thoại pin khủngĐIỆN THOẠI PIN KHỦNG" data-name="Điện thoại pin khủng" data-value="dien-thoai-pin-khung" class=""><a href="javascript:;" data-value="dien-thoai-pin-khung" data-id="1919" title="dien-thoai-pin-khung">Điện thoại pin khủng</a></li>
+                                            <li data-search="Điện thoại chơi gameđiện thoại chơi gameĐIỆN THOẠI CHƠI GAME" data-name="Điện thoại chơi game" data-value="dien-thoai-choi-game" class=""><a href="javascript:;" data-value="dien-thoai-choi-game" data-id="1920" title="dien-thoai-choi-game">Điện thoại chơi game</a></li>
+                                    </ul>
+                                </div><div id="mCSB_6_scrollbar_vertical" class="mCSB_scrollTools mCSB_6_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_6_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+
+                            </div>
+                        </div>
+                        <div class="fs-ctf-ri">
+                            <h4 class="fs-ctf-ritit" data-toggle="collapse" data-target="#tra-gop-uu-dai" aria-expanded="false">Trả góp ưu đãi</h4>
+                            <div class="fs-ctf-ribox collapse " id="tra-gop-uu-dai">
+
+                                <div class="fs-ctf-scroll mCustomScrollbar _mCS_7 mCS_no_scrollbar"><div id="mCSB_7" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" style="max-height: 0px;" tabindex="0"><div id="mCSB_7_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+                                    <ul class="listfilterv4  " data-query="tra-gop-uu-dai">
+                                        <li data-search="" data-value="" data-id="0" class="active"><a href="" title="Tất cả">Tất cả</a></li>
+
+                                            <li data-search="Trả góp 0%trả góp 0%TRẢ GÓP 0%" data-name="Trả góp 0%" data-value="tra-gop-0" class=""><a href="javascript:;" data-value="tra-gop-0" data-id="2033" title="tra-gop-0">Trả góp 0%</a></li>
+                                            <li data-search="Trả góp 0Đtrả góp 0đTRẢ GÓP 0Đ" data-name="Trả góp 0Đ" data-value="tra-gop-0d" class=""><a href="javascript:;" data-value="tra-gop-0d" data-id="2034" title="tra-gop-0d">Trả góp 0Đ</a></li>
+                                            <li data-search="Trả góp 0%/0Đtrả góp 0%/0đTRẢ GÓP 0%/0Đ" data-name="Trả góp 0%/0Đ" data-value="tra-gop-00d" class=""><a href="javascript:;" data-value="tra-gop-00d" data-id="2030" title="tra-gop-00d">Trả góp 0%/0Đ</a></li>
+                                    </ul>
+                                </div><div id="mCSB_7_scrollbar_vertical" class="mCSB_scrollTools mCSB_7_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_7_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+            <!--left-->
+            <div class="fs-ctf-cr">
+                <div class="fs-ctf-head clearfix">
+                    <div class="fs-ctf-hl">
+                        <h1><a href="javascript:;" title="Điện thoại Apple (iPhone) ">
+						ĐIỆN THOẠI APPLE (IPHONE) </a></h1>
+                        <span>(14+ sản phẩm)</span>
+                    </div>
+                    <div class="fs-ctf-hr clearfix">
+                        <div class="fs-ctf-hrdrop dropdown">
+                            <button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Sắp xếp theo:<span class="sortText">Giá cao đến thấp</span> <i class="icdt"></i>
+                            </button>
+                            <ul class="dropdown-menu listfilterv4" data-query="sort">
+                                <li class="sort sortdefault active  "><a href=" javascript:;" data-value="gia-cao-den-thap">Giá cao đến thấp</a> </li>
+                                <li class="sort "><a href="javascript:;" data-value="gia-thap-den-cao">Giá thấp đến cao</a> </li>
+                                <li class="sort    "><a href="javascript:;" data-value="ban-chay-nhat">Bán chạy nhất</a> </li>
+                                <li class="sort "><a href="javascript:;" data-value="xem-nhieu-nhat">Xem  nhiều nhất</a> </li>
+                            </ul>
+                        </div>
+                        <ul class="fs-ctf-hrview viewFilter">
+                            <li data-view="g" class="active"><a data-view="g" class="fs-vgrid" href="javascript:;" title=""><i class="icdt icgrid"></i></a></li>
+                            <li data-view="l" class=""><a data-view="l" class="fs-vlist" href="javascript:;" title=""><i class="icdt iclist"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="fs-ctf-filbox clearfix">
+                    <strong>LỌC THEO:</strong>
+                    <ul class="filterValue"><li data-value="apple-iphone"><span><h2>Apple (iPhone)</h2><i class="icdt icfide delone"></i></span></li><li class="fs-ctf-fidelall"><span>Xóa tất cả <i class="icdt icfide delall"></i></span></li></ul>
+                </div>
+                    <div class="fs-carow clearfix fs-row4 viewgrid">
+<div class="fs-lpil">
+    <a class="fs-lpil-img" href="/dien-thoai/iphone-x" title="iPhone X 64GB">
+        <p>
+            <img class="lazy" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/11/24/636471207542719059_1o.png" data-original="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/11/24/636471207542719059_1o.png" alt="iPhone X 64GB" style="display: inline;">
+        </p>
+            <label class="fs-lpil-lb">Trả góp 0%</label>
+    </a>
+
+    <div class="fs-lpil-if">
+        <div class="fs-lpilname">
+            <h3 class="fs-lpil-name"><a href="/dien-thoai/iphone-x" title="">iPhone X 64GB</a></h3>
+			
+			 <div class="fs-lpil-price">
+                    <p>29.990.000 ₫</p>
+                            </div>
+			
+            <div class="fs-dttrate">
+                <ul>
+
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                                            <li><span class="fs-dttr05"></span></li>
+                                            <li><span class="fs-dttr00"></span></li>
+                </ul>
+                <p>(184 đánh giá)</p>
+            </div>
+           
+        </div>
+
+        <div class="fs-lpil-tskt">
+            <ul>
+	<li><label>Màn Hình:</label> <span>5.8 inchs&nbsp;OLED</span></li>
+	<li><label>Camera:</label> <span>7.0 MP/ Dual 12.0 MP</span></li>
+	<li><label>Pin:</label> <span>2716 mAh, Li-Ion battery</span></li>
+	<li><label>Ram:</label> <span>3 GB</span></li>
+	<li><label>CPU:</label><span>&nbsp;Apple A11 Bionic</span></li>
+	<li><label>HĐH:</label> <span>iOS 11</span></li>
+</ul>
+
+        </div>
+
+        
+            <div class="fs-icpromo">
+                <div class="fs-icpmbox">
+                    <p>GIÁ ĐẶC BIỆT ĐẾN 31/05: 27,990,000đ</p>
+
+<ul>
+	<li>Tặng thêm gói Bảo hành mở rộng năm thứ 2 khi thanh toán Online 100%</li>
+</ul>
+
+<p>HOẶC MUA GIÁ THƯỜNG: 29,990,000đ</p>
+
+<ul>
+	<li>Trả góp 0%</li>
+</ul>
+
+                </div>
+            </div>
+    </div>
+</div>         <div class="fs-lpil">
+    <a class="fs-lpil-img" href="/dien-thoai/iphone-x-256gb" title="iPhone X 256GB">
+        <p>
+            <img class="lazy" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/11/24/636471207542719059_1o.png" data-original="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/11/24/636471207542719059_1o.png" alt="iPhone X 256GB" style="display: inline;">
+        </p>
+            <label class="fs-lpil-lb">Trả góp 0%</label>
+    </a>
+
+    <div class="fs-lpil-if">
+        <div class="fs-lpilname">
+            <h3 class="fs-lpil-name"><a href="/dien-thoai/iphone-x-256gb" title="">iPhone X 256GB</a></h3>
+			
+			 <div class="fs-lpil-price">
+                    <p>34.790.000 ₫</p>
+                            </div>
+			
+            <div class="fs-dttrate">
+                <ul>
+
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                                            <li><span class="fs-dttr05"></span></li>
+                                            <li><span class="fs-dttr00"></span></li>
+                </ul>
+                <p>(63 đánh giá)</p>
+            </div>
+           
+        </div>
+
+        <div class="fs-lpil-tskt">
+            <ul>
+	<li><label>Màn Hình:</label> <span>5.8 inchs&nbsp;OLED</span></li>
+	<li><label>Camera:</label> <span>7.0 MP/ Dual 12.0 MP</span></li>
+	<li><label>Pin:</label> <span>2716 mAh, Li-Ion battery</span></li>
+	<li><label>Ram:</label> <span>3 GB</span></li>
+	<li><label>CPU:</label><span>&nbsp;Apple A11 Bionic</span></li>
+	<li><label>HĐH:</label> <span>iOS 11</span></li>
+</ul>
+
+        </div>
+
+        
+            <div class="fs-icpromo">
+                <div class="fs-icpmbox">
+                    <p>GIÁ ĐẶC BIỆT ĐẾN 31/05: 32,790,000đ</p>
+
+<ul>
+	<li>Tặng thêm gói Bảo hành mở rộng năm thứ 2 khi thanh toán Online 100%</li>
+</ul>
+
+<p>HOẶC MUA GIÁ THƯỜNG: 34,790,000đ</p>
+
+<ul>
+	<li>Trả góp 0%</li>
+</ul>
+
+                </div>
+            </div>
+    </div>
+</div>         <div class="fs-lpil">
+    <a class="fs-lpil-img" href="/dien-thoai/iphone-8-plus-64gb-product-red" title="iPhone 8 Plus 64GB PRODUCT RED">
+        <p>
+            <img class="lazy" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/4/12/636591426060052192_1o.png" data-original="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/4/12/636591426060052192_1o.png" alt="iPhone 8 Plus 64GB PRODUCT RED" style="display: inline;">
+        </p>
+            <label class="fs-lpil-lb">Trả góp 0%</label>
+    </a>
+
+    <div class="fs-lpil-if">
+        <div class="fs-lpilname">
+            <h3 class="fs-lpil-name"><a href="/dien-thoai/iphone-8-plus-64gb-product-red" title="">iPhone 8 Plus 64GB PRODUCT RED</a></h3>
+			
+			 <div class="fs-lpil-price">
+                    <p>23.990.000 ₫</p>
+                            </div>
+			
+            <div class="fs-dttrate">
+                <ul>
+
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                                            <li><span class="fs-dttr05"></span></li>
+                                            <li><span class="fs-dttr00"></span></li>
+                </ul>
+                <p>(61 đánh giá)</p>
+            </div>
+           
+        </div>
+
+        <div class="fs-lpil-tskt">
+            <ul>
+	<li><label>Màn Hình:&nbsp;</label>5.5 inchs&nbsp;HD Retina</li>
+	<li><label>Camera:</label>&nbsp;7.0 MP/ Dual 12.0 MP</li>
+	<li><label>Pin:</label>&nbsp;2675 mAh</li>
+	<li><label>Ram:&nbsp;</label>3 GB</li>
+	<li><label>CPU :&nbsp;</label>Apple A11 Bionic</li>
+	<li><label>HĐH:&nbsp;</label>iOS 11</li>
+</ul>
+
+        </div>
+
+        
+            <div class="fs-icpromo">
+                <div class="fs-icpmbox">
+                    <p>GIÁ ĐẶC BIỆT ĐẾN 31/05: 21,990,000đ</p>
+
+<ul>
+	<li>Tặng thêm gói Bảo hành mở rộng năm thứ 2 khi thanh toán Online 100%</li>
+</ul>
+
+<p>HOẶC MUA GIÁ THƯỜNG: 23,990,000đ</p>
+
+<ul>
+	<li>Trả góp 0%</li>
+</ul>
+
+                </div>
+            </div>
+    </div>
+</div>         <div class="fs-lpil">
+    <a class="fs-lpil-img" href="/dien-thoai/iphone-8-plus-64gb" title="iPhone 8 Plus 64GB">
+        <p>
+            <img class="lazy" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/11/10/636458986501919543_iphone-8-plus.png" data-original="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/11/10/636458986501919543_iphone-8-plus.png" alt="iPhone 8 Plus 64GB" style="display: inline;">
+        </p>
+            <label class="fs-lpil-lb">Trả góp 0%</label>
+    </a>
+
+    <div class="fs-lpil-if">
+        <div class="fs-lpilname">
+            <h3 class="fs-lpil-name"><a href="/dien-thoai/iphone-8-plus-64gb" title="">iPhone 8 Plus 64GB</a></h3>
+			
+			 <div class="fs-lpil-price">
+                    <p>23.990.000 ₫</p>
+                            </div>
+			
+            <div class="fs-dttrate">
+                <ul>
+
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                                            <li><span class="fs-dttr05"></span></li>
+                                            <li><span class="fs-dttr00"></span></li>
+                </ul>
+                <p>(89 đánh giá)</p>
+            </div>
+           
+        </div>
+
+        <div class="fs-lpil-tskt">
+            <ul>
+	<li><label>Màn Hình: </label><span>5.5 inchs&nbsp;HD Retina</span></li>
+	<li><label>Camera:</label><span> 7.0 MP/ Dual 12.0 MP</span></li>
+	<li><label>Pin:</label><span> 2675 mAh</span></li>
+	<li><label>Ram: </label><span>3 GB</span></li>
+	<li><label>CPU :&nbsp;</label><span>Apple A11 Bionic</span></li>
+	<li><label>HĐH: </label><span>iOS 11</span></li>
+</ul>
+
+        </div>
+
+        
+            <div class="fs-icpromo">
+                <div class="fs-icpmbox">
+                    <p>GIÁ ĐẶC BIỆT ĐẾN 31/05: 21,990,000đ</p>
+
+<ul>
+	<li>Tặng thêm gói Bảo hành mở rộng năm thứ 2 khi thanh toán Online 100%</li>
+</ul>
+
+<p>HOẶC MUA GIÁ THƯỜNG: 23,990,000đ</p>
+
+<ul>
+	<li>Trả góp 0%</li>
+</ul>
+
+                </div>
+            </div>
+    </div>
+</div>         <div class="fs-lpil">
+    <a class="fs-lpil-img" href="/dien-thoai/iphone-8-plus-256G-product-red" title="iPhone 8 Plus 256GB PRODUCT RED">
+        <p>
+            <img class="lazy" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/4/12/636591426060052192_1o.png" data-original="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/4/12/636591426060052192_1o.png" alt="iPhone 8 Plus 256GB PRODUCT RED" style="display: inline;">
+        </p>
+            <label class="fs-lpil-lb">Trả góp 0%</label>
+    </a>
+
+    <div class="fs-lpil-if">
+        <div class="fs-lpilname">
+            <h3 class="fs-lpil-name"><a href="/dien-thoai/iphone-8-plus-256G-product-red" title="">iPhone 8 Plus 256GB PRODUCT RED</a></h3>
+			
+			 <div class="fs-lpil-price">
+                    <p>28.790.000 ₫</p>
+                            </div>
+			
+            <div class="fs-dttrate">
+                <ul>
+
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                                            <li><span class="fs-dttr05"></span></li>
+                                            <li><span class="fs-dttr00"></span></li>
+                </ul>
+                <p>(41 đánh giá)</p>
+            </div>
+           
+        </div>
+
+        <div class="fs-lpil-tskt">
+            <ul>
+	<li><label>Màn Hình:&nbsp;</label>5.5 inchs&nbsp;HD Retina</li>
+	<li><label>Camera:</label>&nbsp;7.0 MP/ Dual 12.0 MP</li>
+	<li><label>Pin:</label>&nbsp;2675 mAh</li>
+	<li><label>Ram:&nbsp;</label>3 GB</li>
+	<li><label>CPU :&nbsp;</label>Apple A11 Bionic</li>
+	<li><label>HĐH:&nbsp;</label>iOS 11</li>
+</ul>
+
+        </div>
+
+        
+            <div class="fs-icpromo">
+                <div class="fs-icpmbox">
+                    <p>GIÁ ĐẶC BIỆT ĐẾN 31/05: 26,790,000đ</p>
+
+<ul>
+	<li>Tặng thêm gói Bảo hành mở rộng năm thứ 2 khi thanh toán Online 100%</li>
+</ul>
+
+<p>HOẶC MUA GIÁ THƯỜNG: 28,790,000đ</p>
+
+<ul>
+	<li>Trả góp 0%</li>
+</ul>
+
+                </div>
+            </div>
+    </div>
+</div>         <div class="fs-lpil">
+    <a class="fs-lpil-img" href="/dien-thoai/iphone-8-plus-256gb" title="iPhone 8 Plus 256GB">
+        <p>
+            <img class="lazy" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/11/10/636458986501919543_iphone-8-plus.png" data-original="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/11/10/636458986501919543_iphone-8-plus.png" alt="iPhone 8 Plus 256GB" style="display: inline;">
+        </p>
+            <label class="fs-lpil-lb">Trả góp 0%</label>
+    </a>
+
+    <div class="fs-lpil-if">
+        <div class="fs-lpilname">
+            <h3 class="fs-lpil-name"><a href="/dien-thoai/iphone-8-plus-256gb" title="">iPhone 8 Plus 256GB</a></h3>
+			
+			 <div class="fs-lpil-price">
+                    <p>28.790.000 ₫</p>
+                            </div>
+			
+            <div class="fs-dttrate">
+                <ul>
+
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                                            <li><span class="fs-dttr05"></span></li>
+                                            <li><span class="fs-dttr00"></span></li>
+                </ul>
+                <p>(62 đánh giá)</p>
+            </div>
+           
+        </div>
+
+        <div class="fs-lpil-tskt">
+            <ul>
+	<li><label>Màn Hình:</label> <span>5.5 inchs&nbsp;HD Retina</span></li>
+	<li><label>Camera:</label> <span>7.0 MP/ Dual 12.0 MP</span></li>
+	<li><label>Pin:</label> <span>2675 mAh</span></li>
+	<li><label>Ram:</label> <span>3 GB</span></li>
+	<li><label>CPU:</label><span>Apple A11 Bionic</span></li>
+	<li><label>HĐH:</label><span> iOS 11</span></li>
+</ul>
+
+        </div>
+
+        
+            <div class="fs-icpromo">
+                <div class="fs-icpmbox">
+                    <p>GIÁ ĐẶC BIỆT ĐẾN 31/05: 26,790,000đ</p>
+
+<ul>
+	<li>Tặng thêm gói Bảo hành mở rộng năm thứ 2 khi thanh toán Online 100%</li>
+</ul>
+
+<p>HOẶC MUA GIÁ THƯỜNG: 28,790,000đ</p>
+
+<ul>
+	<li>Trả góp 0%</li>
+</ul>
+
+                </div>
+            </div>
+    </div>
+</div>         <div class="fs-lpil">
+    <a class="fs-lpil-img" href="/dien-thoai/iphone-8-64gb-product-red" title="iPhone 8 64GB PRODUCT RED">
+        <p>
+            <img class="lazy" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/4/12/636591420625058461_1o.png" data-original="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/4/12/636591420625058461_1o.png" alt="iPhone 8 64GB PRODUCT RED" style="display: inline;">
+        </p>
+            <label class="fs-lpil-lb">Trả góp 0%</label>
+    </a>
+
+    <div class="fs-lpil-if">
+        <div class="fs-lpilname">
+            <h3 class="fs-lpil-name"><a href="/dien-thoai/iphone-8-64gb-product-red" title="">iPhone 8 64GB PRODUCT RED</a></h3>
+			
+			 <div class="fs-lpil-price">
+                    <p>20.990.000 ₫</p>
+                            </div>
+			
+            <div class="fs-dttrate">
+                <ul>
+
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                                            <li><span class="fs-dttr05"></span></li>
+                                            <li><span class="fs-dttr00"></span></li>
+                </ul>
+                <p>(35 đánh giá)</p>
+            </div>
+           
+        </div>
+
+        <div class="fs-lpil-tskt">
+            <ul>
+	<li><label>Màn Hình:</label>&nbsp;4.7 inch</li>
+	<li><label>Camera:</label>&nbsp;12.0 MP/ 7.0 MP</li>
+	<li><label>Pin:</label>&nbsp;1821 mAh</li>
+	<li><label>Ram:</label>&nbsp;2&nbsp;GB</li>
+	<li><label>CPU:&nbsp;</label>Apple A11 Bionic</li>
+	<li><label>HĐH:</label>&nbsp;iOS 11</li>
+</ul>
+
+        </div>
+
+        
+            <div class="fs-icpromo">
+                <div class="fs-icpmbox">
+                    <p>GIÁ ĐẶC BIỆT ĐẾN 31/05: 18,990,000đ</p>
+
+<ul>
+	<li>Tặng thêm gói Bảo hành mở rộng năm thứ 2 khi thanh toán Online 100%</li>
+</ul>
+
+<p>HOẶC MUA GIÁ THƯỜNG: 20,990,000đ</p>
+
+<ul>
+	<li>Trả góp 0%</li>
+</ul>
+
+                </div>
+            </div>
+    </div>
+</div>         <div class="fs-lpil">
+    <a class="fs-lpil-img" href="/dien-thoai/iphone-8" title="iPhone 8 64GB">
+        <p>
+            <img class="lazy" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/11/10/636458987171757779_iphone-8.png" data-original="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/11/10/636458987171757779_iphone-8.png" alt="iPhone 8 64GB" style="display: inline;">
+        </p>
+            <label class="fs-lpil-lb">Trả góp 0%</label>
+    </a>
+
+    <div class="fs-lpil-if">
+        <div class="fs-lpilname">
+            <h3 class="fs-lpil-name"><a href="/dien-thoai/iphone-8" title="">iPhone 8 64GB</a></h3>
+			
+			 <div class="fs-lpil-price">
+                    <p>20.990.000 ₫</p>
+                            </div>
+			
+            <div class="fs-dttrate">
+                <ul>
+
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                                            <li><span class="fs-dttr05"></span></li>
+                                            <li><span class="fs-dttr00"></span></li>
+                </ul>
+                <p>(64 đánh giá)</p>
+            </div>
+           
+        </div>
+
+        <div class="fs-lpil-tskt">
+            <ul>
+	<li><label>Màn Hình:</label><span>&nbsp;4.7 inchs&nbsp;</span></li>
+	<li><label>Camera:&nbsp;</label><span>12.0 MP/ 7.0 MP</span></li>
+	<li><label>Pin:</label><span>&nbsp;1821 mAh</span></li>
+	<li><label>Ram:</label><span>&nbsp;2&nbsp;GB</span></li>
+	<li><label>CPU:</label>&nbsp;<span>Apple A11 Bionic</span></li>
+	<li><label>HĐH:</label><span>&nbsp;iOS 11</span></li>
+</ul>
+
+        </div>
+
+        
+            <div class="fs-icpromo">
+                <div class="fs-icpmbox">
+                    <p>GIÁ ĐẶC BIỆT ĐẾN 31/05: 18,990,000đ</p>
+
+<ul>
+	<li>Tặng thêm gói Bảo hành mở rộng năm thứ 2 khi thanh toán Online 100%</li>
+</ul>
+
+<p>HOẶC MUA GIÁ THƯỜNG: 20,990,000đ</p>
+
+<ul>
+	<li>Trả góp 0%</li>
+</ul>
+
+                </div>
+            </div>
+    </div>
+</div>         <div class="fs-lpil">
+    <a class="fs-lpil-img" href="/dien-thoai/iphone-8-256gb-product-red" title="iPhone 8 256GB PRODUCT RED">
+        <p>
+            <img class="lazy" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/4/12/636591420625058461_1o.png" data-original="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/4/12/636591420625058461_1o.png" alt="iPhone 8 256GB PRODUCT RED" style="display: inline;">
+        </p>
+            <label class="fs-lpil-lb">Trả góp 0%</label>
+    </a>
+
+    <div class="fs-lpil-if">
+        <div class="fs-lpilname">
+            <h3 class="fs-lpil-name"><a href="/dien-thoai/iphone-8-256gb-product-red" title="">iPhone 8 256GB PRODUCT RED</a></h3>
+			
+			 <div class="fs-lpil-price">
+                    <p>25.790.000 ₫</p>
+                            </div>
+			
+            <div class="fs-dttrate">
+                <ul>
+
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                                            <li><span class="fs-dttr05"></span></li>
+                                            <li><span class="fs-dttr00"></span></li>
+                </ul>
+                <p>(33 đánh giá)</p>
+            </div>
+           
+        </div>
+
+        <div class="fs-lpil-tskt">
+            <ul>
+	<li><label>Màn Hình:</label>&nbsp;4.7 inch</li>
+	<li><label>Camera:</label>&nbsp;12.0 MP/ 7.0 MP</li>
+	<li><label>Pin:</label>&nbsp;1821 mAh</li>
+	<li><label>Ram:</label>&nbsp;2&nbsp;GB</li>
+	<li><label>CPU:&nbsp;</label>Apple A11 Bionic</li>
+	<li><label>HĐH:</label>&nbsp;iOS 11</li>
+</ul>
+
+        </div>
+
+        
+            <div class="fs-icpromo">
+                <div class="fs-icpmbox">
+                    <p>GIÁ ĐẶC BIỆT ĐẾN 31/05: 23,790,000đ</p>
+
+<ul>
+	<li>Tặng thêm gói Bảo hành mở rộng năm thứ 2 khi thanh toán Online 100%</li>
+</ul>
+
+<p>HOẶC MUA GIÁ THƯỜNG: 25,790,000đ</p>
+
+<ul>
+	<li>Trả góp 0%</li>
+</ul>
+
+                </div>
+            </div>
+    </div>
+</div>         <div class="fs-lpil">
+    <a class="fs-lpil-img" href="/dien-thoai/iphone-8-256gb" title="iPhone 8 256GB">
+        <p>
+            <img class="lazy" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/11/10/636458987171757779_iphone-8.png" data-original="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/11/10/636458987171757779_iphone-8.png" alt="iPhone 8 256GB" style="display: inline;">
+        </p>
+            <label class="fs-lpil-lb">Trả góp 0%</label>
+    </a>
+
+    <div class="fs-lpil-if">
+        <div class="fs-lpilname">
+            <h3 class="fs-lpil-name"><a href="/dien-thoai/iphone-8-256gb" title="">iPhone 8 256GB</a></h3>
+			
+			 <div class="fs-lpil-price">
+                    <p>25.790.000 ₫</p>
+                            </div>
+			
+            <div class="fs-dttrate">
+                <ul>
+
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                                            <li><span class="fs-dttr05"></span></li>
+                                            <li><span class="fs-dttr00"></span></li>
+                </ul>
+                <p>(53 đánh giá)</p>
+            </div>
+           
+        </div>
+
+        <div class="fs-lpil-tskt">
+            <ul>
+	<li><label>Màn Hình:</label><span>&nbsp;4.7 inch</span></li>
+	<li><label>Camera:</label> <span>12.0 MP/ 7.0 MP</span></li>
+	<li><label>Pin:</label> <span>1821 mAh</span></li>
+	<li><label>Ram:</label><span>&nbsp;2&nbsp;GB</span></li>
+	<li><label>CPU:&nbsp;</label><span>Apple A11 Bionic</span></li>
+	<li><label>HĐH:</label><span> iOS 11</span></li>
+</ul>
+
+        </div>
+
+        
+            <div class="fs-icpromo">
+                <div class="fs-icpmbox">
+                    <p>GIÁ ĐẶC BIỆT ĐẾN 31/05: 23,790,000đ</p>
+
+<ul>
+	<li>Tặng thêm gói Bảo hành mở rộng năm thứ 2 khi thanh toán Online 100%</li>
+</ul>
+
+<p>HOẶC MUA GIÁ THƯỜNG: 25,790,000đ</p>
+
+<ul>
+	<li>Trả góp 0%</li>
+</ul>
+
+                </div>
+            </div>
+    </div>
+</div>         <div class="fs-lpil">
+    <a class="fs-lpil-img" href="/dien-thoai/iphone-7-plus" title="iPhone 7 Plus 32GB">
+        <p>
+            <img class="lazy" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/1/27/636526510473097750_1o-7plus-32.png" data-original="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/1/27/636526510473097750_1o-7plus-32.png" alt="iPhone 7 Plus 32GB" style="display: inline;">
+        </p>
+            <label class="fs-lpil-lb">Trả góp 0%</label>
+    </a>
+
+    <div class="fs-lpil-if">
+        <div class="fs-lpilname">
+            <h3 class="fs-lpil-name"><a href="/dien-thoai/iphone-7-plus" title="">iPhone 7 Plus 32GB</a></h3>
+			
+			 <div class="fs-lpil-price">
+                    <p>19.999.000 ₫</p>
+                            </div>
+			
+            <div class="fs-dttrate">
+                <ul>
+
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                                            <li><span class="fs-dttr05"></span></li>
+                                    </ul>
+                <p>(311 đánh giá)</p>
+            </div>
+           
+        </div>
+
+        <div class="fs-lpil-tskt">
+            <ul>
+	<li><label>Màn Hình:</label> <span>5.5 inch (1920 x 1080 pixels)</span></li>
+	<li><label>Camera:</label> <span>Chính: Dual Camera 12.0MP; Phụ: 7.0MP</span></li>
+	<li><label>Pin:</label> <span> Li-Ion 11.1 Wh (2900 mAh)</span></li>
+	<li><label>Ram:</label> <span>3 GB</span></li>
+	<li><label>CPU :</label><span> Apple A10, 4 Nhân, Quad-core 2.3 GHz</span></li>
+	<li><label>HĐH:</label> <span>iOS</span></li>
+</ul>
+
+        </div>
+
+        
+            <div class="fs-icpromo">
+                <div class="fs-icpmbox">
+                    <p>Khách hàng chọn 1 trong 2 Khuyến mại sau:</p>
+
+<p>KM1:</p>
+
+<ul>
+	<li>Trả góp 0%</li>
+</ul>
+
+<p>KM2:</p>
+
+<ul>
+	<li>Tặng gói Bảo hành mở rộng năm thứ 2 khi thanh toán Online</li>
+</ul>
+
+<p>Khách hàng được khuyến mại thêm:</p>
+
+<ul>
+	<li>Giảm thêm 1,000,000đ khi mua combo (iPhone + Apple Watch)</li>
+</ul>
+
+<ul>
+	<li>Giảm thêm 500,000đ khi mua combo (iPhone + Airpods)</li>
+</ul>
+
+                </div>
+            </div>
+    </div>
+</div>         <div class="fs-lpil">
+    <a class="fs-lpil-img" href="/dien-thoai/iphone-7" title="iPhone 7 32GB">
+        <p>
+            <img class="lazy" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/1/27/636526505168293223_1o.png" data-original="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/1/27/636526505168293223_1o.png" alt="iPhone 7 32GB" style="display: inline;">
+        </p>
+            <label class="fs-lpil-lb">Trả góp 0%</label>
+    </a>
+
+    <div class="fs-lpil-if">
+        <div class="fs-lpilname">
+            <h3 class="fs-lpil-name"><a href="/dien-thoai/iphone-7" title="">iPhone 7 32GB</a></h3>
+			
+			 <div class="fs-lpil-price">
+                    <p>15.999.000 ₫</p>
+                            </div>
+			
+            <div class="fs-dttrate">
+                <ul>
+
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                                            <li><span class="fs-dttr05"></span></li>
+                                    </ul>
+                <p>(390 đánh giá)</p>
+            </div>
+           
+        </div>
+
+        <div class="fs-lpil-tskt">
+            <ul>
+	<li><label>Màn Hình:</label> <span>4.7 inch(1334 x 750 pixel)</span></li>
+	<li><label>Camera:</label> <span>Chính: 12.0 MP, Phụ: 7.0 MP</span></li>
+	<li><label>Pin:</label> <span> Li-Ion 7.45 Wh (1960 mAh)</span></li>
+	<li><label>Ram:</label> <span>2 GB</span></li>
+	<li><label>CPU :</label><span> Apple A10, 4 Nhân, 2.3 Ghz</span></li>
+	<li><label>HĐH:</label> <span>iOS 10</span></li>
+</ul>
+
+        </div>
+
+        
+            <div class="fs-icpromo">
+                <div class="fs-icpmbox">
+                    <p>Khách hàng chọn 1 trong 2 Khuyến mại sau:</p>
+
+<p>KM1:</p>
+
+<ul>
+	<li>Trả góp 0%</li>
+</ul>
+
+<p>KM2:</p>
+
+<ul>
+	<li>Tặng gói Bảo hành mở rộng năm thứ 2 khi thanh toán Online</li>
+</ul>
+
+<p>Khách hàng được khuyến mại thêm:</p>
+
+<ul>
+	<li>Giảm thêm 1,000,000đ khi mua combo (iPhone + Apple Watch)</li>
+</ul>
+
+<ul>
+	<li>Giảm thêm 500,000đ khi mua combo (iPhone + Airpods)</li>
+</ul>
+
+                </div>
+            </div>
+    </div>
+</div>         <div class="fs-lpil">
+    <a class="fs-lpil-img" href="/dien-thoai/iphone-6s-plus-32gb" title="iPhone 6s Plus 32GB">
+        <p>
+            <img class="lazy" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/1/27/636526515750427366_1o-6splus-32.png" data-original="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/1/27/636526515750427366_1o-6splus-32.png" alt="iPhone 6s Plus 32GB">
+        </p>
+            <label class="fs-lpil-lb">Trả góp 0%</label>
+    </a>
+
+    <div class="fs-lpil-if">
+        <div class="fs-lpilname">
+            <h3 class="fs-lpil-name"><a href="/dien-thoai/iphone-6s-plus-32gb" title="">iPhone 6s Plus 32GB</a></h3>
+			
+			 <div class="fs-lpil-price">
+                    <p>13.999.000 ₫</p>
+                            </div>
+			
+            <div class="fs-dttrate">
+                <ul>
+
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                                            <li><span class="fs-dttr05"></span></li>
+                                            <li><span class="fs-dttr00"></span></li>
+                </ul>
+                <p>(162 đánh giá)</p>
+            </div>
+           
+        </div>
+
+        <div class="fs-lpil-tskt">
+            <ul>
+	<li><label>Màn Hình:</label> <span> 5.5 inch, 1080 x 1920 pixels</span></li>
+	<li><label>Camera:</label> <span>12.0 MP/ 5.0MP</span></li>
+	<li><label>Pin:</label> <span> lithium-ion battery 2750mAh</span></li>
+	<li><label>Ram:</label> <span>2 GB</span></li>
+	<li><label>CPU :</label><span> Apple A9, 2 Nhân, Dual-core 1.8 GHz</span></li>
+	<li><label>HĐH:</label> <span>iOS 10</span></li>
+</ul>
+
+        </div>
+
+        
+            <div class="fs-icpromo">
+                <div class="fs-icpmbox">
+                    <p><strong>GIÁ ĐẶC BIỆT ĐẾN 31/05: 12,499,000đ</strong></p>
+
+<ul>
+	<li>Giảm thêm 1,000,000đ khi mua combo (iPhone - Apple Watch)</li>
+	<li>Giảm thêm 500,000đ khi mua combo (iPhone - Airpods)</li>
+</ul>
+
+<p><strong>HOẶC MUA VỚI GIÁ THƯỜNG: 13,999,000đ</strong></p>
+
+<ul>
+	<li>Trả góp 0%</li>
+</ul>
+
+                </div>
+            </div>
+    </div>
+</div>         <div class="fs-lpil">
+    <a class="fs-lpil-img" href="/dien-thoai/iphone-6-32gb" title="iPhone 6 32GB (2017)">
+        <p>
+            <img class="lazy" src="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/5/18/636622605489276625_6-32.png" data-original="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/5/18/636622605489276625_6-32.png" alt="iPhone 6 32GB (2017)">
+        </p>
+            <label class="fs-lpil-lb">Trả góp 0%</label>
+    </a>
+
+    <div class="fs-lpil-if">
+        <div class="fs-lpilname">
+            <h3 class="fs-lpil-name"><a href="/dien-thoai/iphone-6-32gb" title="">iPhone 6 32GB (2017)</a></h3>
+			
+			 <div class="fs-lpil-price">
+                    <p>7.499.000 ₫</p>
+                                    <del>8.999.000 ₫</del>
+            </div>
+			
+            <div class="fs-dttrate">
+                <ul>
+
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                        <li><span class="fs-dttr10"></span></li>
+                                            <li><span class="fs-dttr05"></span></li>
+                                    </ul>
+                <p>(479 đánh giá)</p>
+            </div>
+           
+        </div>
+
+        <div class="fs-lpil-tskt">
+            <ul>
+	<li><label>Màn Hình:</label> <span> 4.7 inch (1334 x 750 pixels)</span></li>
+	<li><label>Camera:</label> <span>Chính: 8.0 MP, Phụ: 1.2 MP</span></li>
+	<li><label>Pin:</label> <span>Lithium - Ion 1810mAh</span></li>
+	<li><label>Ram:</label> <span>1GB </span></li>
+	<li><label>CPU :</label><span> Apple A8 2 nhân 64-bit, 2 Nhân, 1.4 GHz</span></li>
+	<li><label>HĐH:</label> <span>iOS</span></li>
+</ul>
+
+        </div>
+
+        
+            <div class="fs-icpromo">
+                <div class="fs-icpmbox">
+                    <p><strong>GIÁ ĐẶC BIỆT ĐẾN 31/05: 6,699,000đ</strong></p>
+
+<ul>
+	<li>Giảm thêm 1,000,000đ khi mua combo (iPhone - Apple Watch)</li>
+	<li>Giảm thêm 500,000đ khi mua combo (iPhone - Airpods)</li>
+</ul>
+
+<p><strong>HOẶC MUA VỚI GIÁ THƯỜNG : 7,499,000đ</strong></p>
+
+<ul>
+	<li>Trả góp 0%</li>
+</ul>
+
+                </div>
+            </div>
+    </div>
+</div>                                 <!--proitem-->
+                    </div>
+
+    <div class="f-cmtpaging">
+        <ul class="clearfix">
+                    <li class="active"><a href="javascript:;" data-page="1" data-total="14" title="">1</a></li>
+        </ul>
+    </div>
+            </div>
+            <!--right-->
+        </div>
+        <!--Product seen-->
+        
+        <!--Product seen-->
+    </div>
+</section>
+<script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+    "@id": "https://fptshop.com.vn",
+    "name": "Fptshop"
+    }}
+    ,{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+    "@id": "https://fptshop.com.vn/dien-thoai",
+    "name": "dien-thoai"
+    }},{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+    "@id": "http://fptshop.com.vn/dien-thoai/apple-iphone",
+    "name": "dien-thoai"
+    }}]
+    }
+</script>
+<script>
+    dataLayer.push({
+        'ecommerce': {
+            'currencyCode': 'VND',
+            'impressions': [{'name': 'iPhone X 64GB','id': '21939','price': '29990000,0000','brand': '','category': 'Điện thoại','variant': '','list': 'Category_Hot','position': 1},{'name': 'iPhone X 256GB','id': '22040','price': '34790000,0000','brand': '','category': 'Điện thoại','variant': '','list': 'Category_Hot','position': 0},{'name': 'iPhone 8 Plus 64GB PRODUCT RED','id': '24053','price': '23990000,0000','brand': '','category': 'Điện thoại','variant': '','list': 'Category_Hot','position': 6},{'name': 'iPhone 8 Plus 64GB','id': '22037','price': '23990000,0000','brand': '','category': 'Điện thoại','variant': '','list': 'Category_Hot','position': 7},{'name': 'iPhone 8 Plus 256GB PRODUCT RED','id': '24054','price': '28790000,0000','brand': '','category': 'Điện thoại','variant': '','list': 'Category_Hot','position': 2},{'name': 'iPhone 8 Plus 256GB','id': '22039','price': '28790000,0000','brand': '','category': 'Điện thoại','variant': '','list': 'Category_Hot','position': 3},{'name': 'iPhone 8 64GB PRODUCT RED','id': '24051','price': '20990000,0000','brand': '','category': 'Điện thoại','variant': '','list': 'Category_Hot','position': 9},{'name': 'iPhone 8 64GB','id': '22034','price': '20990000,0000','brand': '','category': 'Điện thoại','variant': '','list': 'Category_Hot','position': 8},{'name': 'iPhone 8 256GB PRODUCT RED','id': '24052','price': '25790000,0000','brand': '','category': 'Điện thoại','variant': '','list': 'Category_Hot','position': 5},{'name': 'iPhone 8 256GB','id': '22036','price': '25790000,0000','brand': '','category': 'Điện thoại','variant': '','list': 'Category_Hot','position': 4},{'name': 'iPhone 7 Plus 32GB','id': '10051','price': '19999000,0000','brand': '','category': 'Điện thoại','variant': '','list': 'Category_Hot','position': 10},{'name': 'iPhone 7 32GB','id': '8724','price': '15999000,0000','brand': '','category': 'Điện thoại','variant': '','list': 'Category_Hot','position': 11},{'name': 'iPhone 6s Plus 32GB','id': '19935','price': '13999000,0000','brand': '','category': 'Điện thoại','variant': '','list': 'Category_Hot','position': 12},{'name': 'iPhone 6 32GB (2017)','id': '21350','price': '7499000,0000','brand': '','category': 'Điện thoại','variant': '','list': 'Category_Hot','position': 13},]
+        }
+    });
+</script>
+<iframe src="//asia.creativecdn.com/tags?id=pr_sZLnCJh9TF982BLTejfu_category2_1" width="1" height="1" scrolling="no" frameborder="0" style="display: none !important;"></iframe>
+    <!-- JsCall -->
+		<script src="/bundles/scriptsv4?v=oJgPQ8wREuybNII389QDW0BFvHCkmRVBnz4Qs1nNkew1" type="text/javascript"></script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","527503604082474");fbq("set","agent","tmgoogletagmanager","527503604082474");fbq("track","PageView");</script>
+
+<script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:731679,hjsv:6};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv\x3d");</script>
+    
+
+	<style>.fs-main {padding: 100px 0 15px 0;background: #f3f3f3;}.fs-header{position: absolute;top: 0;left: 0;	width: 100%;}</style>
+	
+		 <!-- Hearder -->
+
+        
+<header class="fs-header"> <div class="f-hdtop"> <div class="f-wrap"> <a class="fs-logo" href="/" title=""><i class="ficon f-logo"></i></a> <ul class="fs-hdmn"> <li><a href="/ctkm/uu-dai-samsung" title="" target="_blank"><img src="/images/icon_trogia.gif" alt=""> <span>Điện thoại trợ giá</span></a></li><li> <a href="/tin-tuc" title=""><i class="ficon f-news"></i> <span>Tin hay</span></a> <ul class="fs-hdmsub fs-hdmsnews"> <li class=""><a href="/tin-tuc" title="">Tin mới</a></li><li class=""><a href="/hoi-dap" title="">Diễn đàn</a></li><li><a href="/tin-tuc/tin-khuyen-mai" title="">Khuyến mãi</a></li><li><a href="/tin-tuc/thu-thuat" title="">Thủ thuật</a></li><li><a href="/tin-tuc/video-review" title="">Video hot</a></li><li><a href="/tin-tuc/goc-khach-hang" title="">Góc khách hàng</a></li><li><a href="/tin-tuc/xu-huong" title="">Xu hướng</a></li><li><a href="/tin-tuc/giai-tri" title="">Giải trí</a></li></ul> </li><li><a href="/ffriends" title="ffriends"><i class="ficon f-mtts"></i> <span>Mua trước trả sau</span></a></li><li><a href="/gio-hang" title=""><i class="ficon f-cart"></i> <span>Giỏ hàng</span><b class="fs-cartic countTotalCart" style="display: none;">0</b></a></li></ul> <div class="fs-search"> <form action="" method="get" autocomplete="off"> <input class="fs-stxt" type="text" name="" placeholder="Nhập tên điện thoại, máy tính, phụ kiện... cần tìm" autocomplete="off" maxlength="50"> <button type="submit" class="search-button"><i class="ficon f-search"></i></button> <div class="fs-sresult" style="display: none;"> <div class="fs-sremain"> <ul style="display: none;"></ul> </div></div></form> </div></div></div><nav class="fs-menu"> <div class="f-wrap"> <ul class="fs-mnul clearfix"> <li> <a href="/dien-thoai" title="ĐIỆN THOẠI"><i class="ficon f-dthoai"></i>ĐIỆN THOẠI <span class="ficon"></span></a> <div class="fs-mnsub"> <div class="fs-mnbox"> <div class="fs-mntd fs-mntd1"> <p class="fs-mnstit">Hãng sản xuất</p><ul class="fs-mnsul fs-mnsul3 clearfix"> <li><a href="/dien-thoai/apple-iphone" title="Apple (iPhone)">Apple (iPhone)</a></li><li><a href="/dien-thoai/samsung" title="Samsung">Samsung</a></li><li><a href="/dien-thoai/oppo" title="OPPO">OPPO</a></li><li><a href="/dien-thoai/sony" title="Sony">Sony</a></li><li><a href="/dien-thoai/nokia" title="Nokia">Nokia</a></li><li><a href="/dien-thoai/vivo" title="Vivo">Vivo</a></li><li><a href="/dien-thoai/asus" title="Asus">Asus</a></li><li><a href="/dien-thoai/huawei" title="Huawei">Huawei</a></li><li><a href="/dien-thoai/masstel" title="Masstel">Masstel</a></li><li><a href="/dien-thoai/meizu" title="MEIZU">MEIZU</a></li><li><a href="/dien-thoai/mobiistar" title="Mobiistar">Mobiistar</a></li><li><a href="/dien-thoai/philips" title="Philips">Philips</a></li><li><a href="/dien-thoai/wiko" title="Wiko">Wiko</a></li><li><a href="/dien-thoai/itel" title="Itel">Itel</a></li><li><a href="/dien-thoai/tecno" title="Tecno">Tecno</a></li><li><a href="/dien-thoai/xiaomi" title="Xiaomi">Xiaomi</a></li></ul> </div><div class="fs-mntd fs-mntd2"> <p class="fs-mnstit">Mức giá</p><ul class="fs-mnsul fs-mnsul1 clearfix"> <li><a href="/dien-thoai/duoi-1-trieu" title="Dưới 1 triệu">Dưới 1 triệu</a></li><li><a href="/dien-thoai/tu-1-3-trieu" title="Từ 1 - 3 triệu">Từ 1 - 3 triệu</a></li><li><a href="/dien-thoai/tu-3-6-trieu" title="Từ 3 - 6 triệu">Từ 3 - 6 triệu</a></li><li><a href="/dien-thoai/tu-6-10-trieu" title="Từ 6 - 10 triệu">Từ 6 - 10 triệu</a></li><li><a href="/dien-thoai/tu-10-15-trieu" title="Từ 10 - 15 triệu">Từ 10 - 15 triệu</a></li><li><a href="/dien-thoai/tren-15-trieu" title="Trên 15 triệu">Trên 15 triệu</a></li></ul> </div><div class="fs-mntd fs-mntd3"> <p class="fs-mnstit">Bán chạy nhất</p><ul class="fs-mnsprod"> <li class="clearfix"> <a class="fs-mnspimg" href="/dien-thoai/samsung-galaxy-a6"> <img src="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/5/9/636614823903182547_1o.png" alt="Samsung Galaxy A6"> </a> <div> <span><a href="/dien-thoai/samsung-galaxy-a6" title="">Samsung Galaxy A6</a></span> <p>6.990.000 ₫</p></div></li><li class="clearfix"> <a class="fs-mnspimg" href="/dien-thoai/xiaomi-redmi-note-5"> <img src="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/5/7/636612801354913649_636574162702861277_1o.png.jpeg" alt="Xiaomi Redmi Note 5 32GB"> </a> <div> <span><a href="/dien-thoai/xiaomi-redmi-note-5" title="">Xiaomi Redmi Note 5 32GB</a></span> <p>4.799.000 ₫</p></div></li></ul> <p class="fs-mnsbxh"><a href="/bang-xep-hang#dien-thoai" title="">Xem bảng xếp hạng điện thoại</a></p></div><div class="fs-mntd fs-mntd4"> </div></div></div></li><li> <a href="/may-tinh-xach-tay" title=""><i class="ficon f-laptop"></i> LAPTOP <span class="ficon"></span></a> <div class="fs-mnsub"> <div class="fs-mnbox"> <div class="fs-mntd fs-mntd1"> <p class="fs-mnstit">Hãng sản xuất</p><ul class="fs-mnsul fs-mnsul3 clearfix"> <li><a href="/may-tinh-xach-tay/apple-macbook" title="Apple (Macbook)">Apple (Macbook)</a></li><li><a href="/may-tinh-xach-tay/asus" title="Asus">Asus</a></li><li><a href="/may-tinh-xach-tay/acer" title="Acer">Acer</a></li><li><a href="/may-tinh-xach-tay/dell" title="Dell">Dell</a></li><li><a href="/may-tinh-xach-tay/hp" title="HP">HP</a></li><li><a href="/may-tinh-xach-tay/lenovo" title="Lenovo">Lenovo</a></li><li><a href="/may-tinh-xach-tay/msi" title="MSI">MSI</a></li><li><a href="/may-tinh-xach-tay/masstel" title="Masstel">Masstel</a></li></ul> <p class="fs-mnstit"><a href="/phan-mem">PHẦN MỀM</a></p><ul class="fs-mnsul fs-mnsul3 clearfix"> <li><a href="/phan-mem/diet-virus" title="Phần mềm Diệt Virus">Diệt Virus</a></li><li><a href="/phan-mem/microsoft-office" title="Phần mềm Microsoft Office">Microsoft Office</a></li><li><a href="/phan-mem/windows" title="Phần mềm windows">Windows</a></li><li><a href="/phan-mem/phan-mem-khac" title="Phần mềm Phần mềm khác">Phần mềm khác</a></li></ul> </div><div class="fs-mntd fs-mntd2"> <p class="fs-mnstit">Mức giá</p><ul class="fs-mnsul fs-mnsul1 clearfix"> <li><a href="/may-tinh-xach-tay/duoi-5-trieu" title="Dưới 5 triệu">Dưới 5 triệu</a></li><li><a href="/may-tinh-xach-tay/tu-5-10-trieu" title="Từ 5 - 10 triệu">Từ 5 - 10 triệu</a></li><li><a href="/may-tinh-xach-tay/tu-10-15-trieu" title="Từ 10 - 15 triệu">Từ 10 - 15 triệu</a></li><li><a href="/may-tinh-xach-tay/tu-15-20-trieu" title="Từ 15 - 20 triệu">Từ 15 - 20 triệu</a></li><li><a href="/may-tinh-xach-tay/tu-20-25-trieu" title="Từ 20 - 25 triệu">Từ 20 - 25 triệu</a></li><li><a href="/may-tinh-xach-tay/tu-25-30-trieu" title="Từ 25 - 30 triệu">Từ 25 - 30 triệu</a></li><li><a href="/may-tinh-xach-tay/tren-30-trieu" title="Trên 30 triệu">Trên 30 triệu</a></li></ul> </div><div class="fs-mntd fs-mntd3"> <p class="fs-mnstit">Mục đích sử dụng</p><ul class="fs-mnsul fs-mnsul1 clearfix"> <li><a href="/may-tinh-xach-tay/san-pham-2-trong-1" title="Sản phẩm 2 trong 1">Sản phẩm 2 trong 1</a></li><li><a href="/may-tinh-xach-tay/chon-boi-fpt-shop" title="Chọn bởi FPT Shop">Chọn bởi FPT Shop</a></li><li><a href="/may-tinh-xach-tay/sinh-vien-van-phong" title="Sinh viên - Văn phòng">Sinh viên - Văn phòng</a></li><li><a href="/may-tinh-xach-tay/gaming-do-hoa" title="Gaming - Đồ họa">Gaming - Đồ họa</a></li><li><a href="/may-tinh-xach-tay/doanh-nhan" title="Doanh nhân">Doanh nhân</a></li><li><a href="/may-tinh-xach-tay/ram-khung" title="Ram khủng">Ram khủng</a></li><li><a href="/may-tinh-xach-tay/windows" title="Windows">Windows</a></li></ul> </div><div class="fs-mntd fs-mntd4"> <a target="_blank" href="https://fptshop.com.vn/mua-laptop-den-fptshop" title="Laptop tháng Header"> <img src="//cdn.fptshop.com.vn/Uploads/Originals/2018/4/9/636588834827104417_H4.png" alt="Laptop tháng Header"> </a> </div></div></div></li><li> <a href="http://fstudiobyfpt.com.vn/" title=""><i class="ficon f-apple"></i> APPLE <span class="ficon"></span></a> <div class="fs-mnsub"> <div class="fs-mnbox"> <div class="fs-mntd fs-mntd1"> <p class="fs-mnstit">Các sản phẩm Apple</p><ul class="fs-mnsul fs-mnsul3 clearfix"> <li><a href="/dien-thoai/apple-iphone" title="iPhone">iPhone</a></li><li><a href="/may-tinh-bang/apple-ipad" title="iPad">iPad</a></li><li><a href="/may-tinh-xach-tay/apple-macbook" title="Mac">Mac</a></li><li><a href="/smartwatch/apple" title="Watch">Watch</a></li><li><a href="/phu-kien/tv-box" title="TV">TV</a></li><li><a href="/phu-kien/phu-kien-apple" title="Phụ kiện">Phụ kiện</a></li><li><a href="/phu-kien/phu-kien-apple" title="Beats">Beats</a></li></ul> </div><div class="fs-mntd fs-mntd2"> <p class="fs-mnstit">Mức giá</p><ul class="fs-mnsul fs-mnsul1 clearfix"> <li><a href="/dien-thoai/apple-iphone" title="Dưới 10 triệu">Dưới 10 triệu</a></li><li><a href="/dien-thoai/apple-iphone" title="Từ 10 - 15 triệu">Từ 10 - 15 triệu</a></li><li><a href="/dien-thoai/apple-iphone" title="Từ 15 - 20 triệu">Từ 15 - 20 triệu</a></li><li><a href="/dien-thoai/apple-iphone" title="Từ 20 - 25 triệu">Từ 20 - 25 triệu</a></li><li><a href="/dien-thoai/apple-iphone" title="Từ 25 - 30 triệu">Từ 25 - 30 triệu</a></li><li><a href="/dien-thoai/apple-iphone" title="Trên 30 triệu">Trên 30 triệu</a></li></ul> </div><div class="fs-mntd fs-mntd3"> <p class="fs-mnstit">Bán chạy nhất</p><ul class="fs-mnsprod"> <li class="clearfix"> <a class="fs-mnspimg" href="/dien-thoai/iphone-6-32gb"> <img src="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/5/18/636622605489276625_6-32.png" alt="iPhone 6 32GB (2017)"> </a> <div> <span><a href="/dien-thoai/iphone-6-32gb" title="">iPhone 6 32GB (2017)</a></span> <p>7.499.000 ₫</p></div></li><li class="clearfix"> <a class="fs-mnspimg" href="/may-tinh-bang/iPad-2018-WiFi-128GB"> <img src="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/5/8/636613881392399068_ipad-wifi.png" alt="iPad 2018 WiFi 128GB"> </a> <div> <span><a href="/may-tinh-bang/iPad-2018-WiFi-128GB" title="">iPad 2018 WiFi 128GB</a></span> <p>11.999.000 ₫</p></div></li></ul> </div><div class="fs-mntd fs-mntd4"> <a target="_blank" href="https://fptshop.com.vn/apple/iphone/iphone-x" title="KM Apple tháng"> <img src="//cdn.fptshop.com.vn/Uploads/Originals/2018/1/1/636504001230136182_636482946260323426_636459941853997270_Banner-Apple-T12.png" alt="KM Apple tháng"> </a> </div></div></div></li><li> <a href="/may-tinh-bang" title=""><i class="ficon f-tablet"></i> TABLET <span class="ficon"></span></a> <div class="fs-mnsub"> <div class="fs-mnbox"> <div class="fs-mntd fs-mntd1"> <p class="fs-mnstit">Hãng sản xuất</p><ul class="fs-mnsul fs-mnsul3 clearfix"> <li><a href="/may-tinh-bang/apple-ipad" title="Apple (iPad)">Apple (iPad)</a></li><li><a href="/may-tinh-bang/samsung" title="Samsung">Samsung</a></li><li><a href="/may-tinh-bang/lenovo" title="Lenovo">Lenovo</a></li><li><a href="/may-tinh-bang/masstel" title="Masstel">Masstel</a></li><li><a href="/may-tinh-bang/huawei" title="Huawei">Huawei</a></li><li><a href="/may-tinh-bang/itel" title="Itel">Itel</a></li></ul> </div><div class="fs-mntd fs-mntd2"> <p class="fs-mnstit">Mức giá</p><ul class="fs-mnsul fs-mnsul1 clearfix"> <li><a href="/may-tinh-bang/duoi-2-trieu" title="Dưới 2 triệu">Dưới 2 triệu</a></li><li><a href="/may-tinh-bang/tu-2-trieu-den-5-trieu" title="Từ 2 triệu đến 5 triệu">Từ 2 triệu đến 5 triệu</a></li><li><a href="/may-tinh-bang/tu-5-trieu-den-8-trieu" title="Từ 5 triệu đến 8 triệu">Từ 5 triệu đến 8 triệu</a></li><li><a href="/may-tinh-bang/tren-8-trieu" title="Trên 8 triệu">Trên 8 triệu</a></li></ul> </div><div class="fs-mntd fs-mntd3"> <p class="fs-mnstit">Bán chạy nhất</p><ul class="fs-mnsprod"> <li class="clearfix"> <a class="fs-mnspimg" href="/may-tinh-bang/samsung-tab-a6-7-t285"> <img src="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/9/7/636403780911157353_1o.jpg" alt="Samsung Galaxy Tab A 7&quot; 2016"> </a> <div> <span><a href="/may-tinh-bang/samsung-tab-a6-7-t285" title="">Samsung Galaxy Tab A 7" 2016</a></span> <p>3.590.000 ₫</p></div></li><li class="clearfix"> <a class="fs-mnspimg" href="/may-tinh-bang/samsung-galaxy-tab-a-2017"> <img src="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/11/1/636451312432993323_1o.png" alt="Samsung Galaxy Tab A 2017"> </a> <div> <span><a href="/may-tinh-bang/samsung-galaxy-tab-a-2017" title="">Samsung Galaxy Tab A 2017</a></span> <p>5.490.000 ₫</p></div></li></ul> <p class="fs-mnsbxh"><a href="/bang-xep-hang#may-tinh-bang" title="">Xem bảng xếp hạng máy tính bảng</a></p></div><div class="fs-mntd fs-mntd4"> <a target="_blank" href="https://fptshop.com.vn/may-tinh-bang/samsung" title="Tab Header"> <img src="//cdn.fptshop.com.vn/Uploads/Originals/2017/11/7/636456489412950637_636300905677779875_248x248-tablet.jpg" alt="Tab Header"> </a> </div></div></div></li><li> <a href="/phu-kien" title=""><i class="ficon f-pkien"></i> PHỤ KIỆN <span class="ficon"></span></a> <div class="fs-mnsub"> <div class="fs-mnbox"> <div class="fs-mntd fs-mntd1"> <p class="fs-mnstit">Các sản phẩm Phụ Kiện</p><ul class="fs-mnsul fs-mnsul3 clearfix"> <li><a href="/phu-kien/bao-da-op-lung" title="Bao da ốp lưng">Bao da ốp lưng</a></li><li style="position: relative;"> <a href="/op-lung-tu-tao" title="Ốp lưng tự tạo">Ốp lưng tự thiết kế</a> <span style="display: inline-block;padding: 1px 6px; background: red; color: #ffffff; font-size: 12px; border-radius: 10px; position: absolute; left: 75%; top: 0;">Mới</span> </li><li><a href="/phu-kien/sac-du-phong" title="Sạc dự phòng">Sạc dự phòng</a></li><li><a href="/phu-kien/the-nho" title="Thẻ nhớ">Thẻ nhớ</a></li><li><a href="/phu-kien/phu-kien-apple" title="Phụ kiện Apple">Phụ kiện Apple</a></li><li><a href="/phu-kien/mieng-dan-man-hinh" title="Miếng dán màn hình">Miếng dán màn hình</a></li><li><a href="/phu-kien/tai-nghe" title="Tai nghe">Tai nghe</a></li><li><a href="/phu-kien/loa" title="Loa">Loa</a></li><li><a href="/phu-kien/usb-o-cung" title="USB - Ổ cứng">USB - Ổ cứng</a></li><li><a href="/phu-kien/sac-cap" title="Sạc cáp">Sạc cáp</a></li><li><a href="/phu-kien/chuot" title="Chuột">Chuột</a></li><li><a href="/phu-kien/balo-tui-xach" title="Balo - Túi xách">Balo - Túi xách</a></li><li><a href="/phu-kien/tv-box" title="TV BOX">TV BOX</a></li><li><a href="/phu-kien/phu-kien-khac" title="Phụ kiện khác">Phụ kiện khác</a></li><li><a href="/phu-kien/may-choi-game" title="Máy chơi game">Máy chơi game</a></li></ul> </div><div class="fs-mntd fs-mntd3"> <p class="fs-mnstit">Bán chạy nhất</p><ul class="fs-mnsprod"> <li class="clearfix"> <a class="fs-mnspimg" href="/phu-kien/MDMH-iPhone-X-Kinh-cuong-luc-Clear"> <img src="//cdn.fptshop.com.vn/Uploads/Thumbs/2018/1/25/636524432304682928_636482583480745126_P1510979240_mieng-dan-kinh-cuong-luc-iphone-x-nillkin-amazing-h-pro-1-(1).jpg" alt="MDMH iPhone X Kính cường lực Clear"> </a> <div> <span><a href="/phu-kien/MDMH-iPhone-X-Kinh-cuong-luc-Clear" title="">MDMH iPhone X Kính cường lực Clear</a></span> <p>250.000 ₫</p></div></li><li class="clearfix"> <a class="fs-mnspimg" href="/phu-kien/mic-karaoke-kem-loa-bluetooth-va-sdp-icore-m9"> <img src="//cdn.fptshop.com.vn/Uploads/Thumbs/2017/3/1/636239586738677906_HAPK-MICRO-KARAOKE-KEM-LOA-BLUETOOTH-VA-SDP-ARIRANG-ICORE-M9-00328363.png" alt="Mic Karaoke kèm loa Bluetooth và SDP iCore M9"> </a> <div> <span><a href="/phu-kien/mic-karaoke-kem-loa-bluetooth-va-sdp-icore-m9" title="">Mic Karaoke kèm loa Bluetooth và SDP iCore M9</a></span> <p>675.000 ₫</p></div></li></ul> </div><div class="fs-mntd fs-mntd4"> <a target="_blank" href="https://fptshop.com.vn/op-lung-tu-tao" title="Khuyến mãi hot nhất"> <img src="//cdn.fptshop.com.vn/Uploads/Originals/2018/4/1/636581632188243139_636529076675583721_banner_tuthietke_248x248.png" alt="Khuyến mãi hot nhất"> </a> </div></div></div></li><li><a href="/may-doi-tra" title=""><i class="ficon f-mdt"></i> MÁY ĐỔI TRẢ</a></li><li class="fs-mnulsb"> <a href="/sim-the" title=""><i class="ficon f-simthe"></i> SIM &amp; THẺ <span class="ficon"></span></a> <ul class="fs-hdmsub fs-hdmsubsmall"> <li><a href="/sim-the/sim" title="">SIM</a></li><li><a href="/sim-the/mua-the-cao" title="">Thẻ cào</a></li></ul> </li><li class="fs-mnulsb"><a href="/khuyen-mai" title=""><i class="ficon f-kmai"></i> KHUYẾN MÃI </a><ul class="fs-hdmsub fs-hdmsubsmall"> <li><a href="/khuyen-mai/thong-tin-trao-thuong" title="">Thông tin trao thưởng</a></li><li><a href="/khuyen-mai" title="">Tất cả khuyến mại</a></li></ul></li><li><a href="/ctkm/tra-gop-uu-dai" title=""><i class="ficon f-tho"></i> TRẢ GÓP 0% </a></li></ul> </div></nav></header>
+	
+    <footer> <div class="fs-footer"> <div class="f-wrap"> <div class="fs-ftrow clearfix"> <div class="fs-ftcol fs-ftcol1"> <ul class="fs-ftul"> <li><a target="_blank" rel="nofollow" href="http://frt.vn/">Giới thiệu về công ty</a></li> <li><a href="//fptshop.com.vn/huong-dan/cau-hoi-thuong-gap" title="Câu hỏi thường gặp mua hàng">Câu hỏi thường gặp mua hàng</a></li> <li><a href="//fptshop.com.vn/ho-tro/chinh-sach-bao-mat" title="">Các chính sách FPT Shop</a></li> <li><a href="//fptshop.com.vn/ho-tro/chinh-sach-bao-hanh" title="">Hệ thống bảo hành</a></li> </ul> </div> <div class="fs-ftcol fs-ftcol1"> <ul class="fs-ftul"><li><a href="//vieclam.fptshop.com.vn/">Tin tuyển dụng</a></li><li><a href="//fptshop.com.vn/tin-tuc/Tin-khuyen-mai" title="">Tin khuyến mãi</a></li><li><a href="//fptshop.com.vn/huong-dan/huong-dan-mua-hang" title="">Hướng dẫn mua online</a></li><li><a href="//fptshop.com.vn/tra-gop" title="">Hướng dẫn mua trả góp</a></li></ul></div><div class="fs-ftcol fs-ftcol1"><ul class="fs-ftul"><li><a href="//fptshop.com.vn/cua-hang">Hệ thống cửa hàng</a></li><li><a href="//fptshop.com.vn/kiem-tra-hang-apple-chinh-hang" title="">Kiểm tra hàng Apple chính hãng</a></li><li><a href="//fptshop.com.vn/ho-tro/gioi-thieu-may-doi-tra" title="">Giới thiệu máy đổi trả</a></li><li><a href="//fptshop.com.vn/ho-tro/gioi-thieu-xa-hang" title="">Giới thiệu xả hàng</a></li></ul></div><div class="fs-ftcol  fs-ftcol2"><ul class="fs-ftr2 clearfix"><li> <p>Tư vẫn miễn phí (24/7)</p> <a href="tel:18006601" title="">1800 6601</a> </li><li> <p>Góp ý, phản ánh(8h00 - 22h00)</p> <a href="tel:18006616" title="">1800 6616</a> </li></ul><div class="fs-ftrright"><div class="fs-ftr1"><p class="fs-ftrtit">Hỗ trợ thanh toán:</p><a class="fs-ftr-vs" href="javascript:;" title=""></a><a class="fs-ftr-mt" href="javascript:;" title=""></a><a class="fs-ftr-atm" href="javascript:;" title=""></a></div><div class="fs-ftr3"><p class="fs-ftrtit">Chứng nhận:</p><ul><li><a class="fs-ftr-cthuong" href="http://online.gov.vn/CustomWebsiteDisplay.aspx?DocId=21891" title=""></a></li><li><a class="fs-ftr-dmca" href="javascript:;" title=""></a></li><li><a class="fs-ftr-sp" href="javascript:;" title=""></a></li><li><a class="fs-ftr-thieuvn" href="javascript:;" title=""></a></li></ul></div></div></div></div></div></div>  <div class="fs-ftbott"> © 2007 - 2018 Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT / Địa chỉ: 261 Khánh Hội, P5, Q4, TP. Hồ Chí Minh / GPĐKKD số 0311609355 do Sở KHĐT TP.HCM cấp ngày 08/03/2012. </div></footer><script src="/Scripts/v4/fpt-shop/jfpts.main.js?v=1705fffx"></script> <script src="/Content/Publishing/js/sourceutm.min.js?v=1705"></script>  <style> a.tooltips {outline:none; } a.tooltips span { z-index:10; display:none; padding:10px 15px; margin-top:30px; margin-left:-160px; width:280px; -moz-box-shadow:0 0 5px 1px #cccccc; -webkit-box-shadow:0 0 5px 1px #cccccc; box-shadow:0 0 5px 1px #cccccc} a.tooltips:hover span{display:inline; position:absolute; border:1px solid #cccccc; background:#ffffff;} </style> <script src="https://evania.adspirit.de/adrtpiggy.php?pid=37&amp;type=1" type="text/javascript"></script> <noscript><iframe width="1" height="2" noresize="noresize" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" src="https://evania.adspirit.de/adrtpiggy.php?pid=37&type=2" ALLOWTRANSPARENCY="true"></iframe></noscript> 
+
+    
+        <script src="/bundles/scriptfiltercatev4?v=1ZmxUN8o6yKzar_FZJW8aLZWGgwg0ZkF03pSz_KPSEA1"></script>
+
+
+
+    
+
+	
+	<!-- Neo -->
+<style>
+    .sbzon {
+        left: 10px !important;
+    }
+
+    .fsneo-box {
+        position: fixed;
+        bottom: 0;
+        right: 10px;
+        z-index: 99;
+    }
+
+    .fsneo-close {
+        position: absolute;
+        top: 12px;
+        right: 5px;
+        cursor: pointer;
+        display: inline-block;
+        width: 24px;
+        height: 24px;
+        background: url("/Content/VoucherNeo/close.png?v=02") no-repeat center;
+    }
+
+    .fsneo-n2 {
+        width: 396px;
+        height: 174px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 34px;
+        position: relative;
+        font-size: 15px;
+        color: #191919;
+        background: url("/Content/VoucherNeo/bg_315_2.png?v=2") no-repeat center;
+        text-align: center;
+    }
+
+        .fsneo-n2 h5 {
+            font-size: 18px;
+            font-weight: bold;
+            padding-top: 20px;
+        }
+
+    .fsneo-n1a {
+        width: 396px;
+        height: 195px;
+        padding-top: 150px;
+        position: relative;
+        background: url("/Content/VoucherNeo/b1a.png?v=4") no-repeat center;
+    }
+
+    .fsneo-n1 {
+        width: 396px;
+        height: 195px;
+        padding-top: 150px;
+        position: relative;
+        background: url("/Content/VoucherNeo/bg_315.png?v=2") no-repeat center;
+    }
+
+        .fsneo-n1 a {
+            display: inline-block;
+            position: absolute;
+            top: 105px;
+            left: 80px;
+            color: #ffffff;
+            font-size: 13px;
+            font-weight: 500;
+        }
+
+        .fsneo-n1 .fsneo-close {
+            top: 24px;
+            right: 5px;
+        }
+
+    .fsneo-n1sea {
+        position: relative;
+        margin: -12px 18px;
+    }
+
+        .fsneo-n1sea input {
+            width: 100%;
+            height: 36px;
+            font-size: 15px;
+            font-weight: 300;
+            outline: 0;
+            padding: 6px 136px 6px 19px;
+            background-color: #fcfcfc;
+            border-width: 0px;
+            border-image-source: linear-gradient(to top, #e8ba53, #fff298 50%, #f2c25c);
+            border-image-slice: 1;
+            -webkit-border-radius: 5px;
+            -moz-border-radius: 5px;
+            border-radius: 5px;
+        }
+
+        .fsneo-n1sea button {
+            display: inline-block;
+            width: 136px;
+            height: 34px;
+            position: absolute;
+            top: 1px;
+            right: 1px;
+            font-size: 14px;
+            font-weight: 500;
+            text-align: center;
+            color: #ffffff;
+            font-weight: bold;
+            background-color: #dd2121;
+            border: none;
+            -webkit-border-radius: 5px;
+            -moz-border-radius: 5px;
+            border-radius: 5px;
+        }
+
+    .sneo-n1txt {
+        position: absolute;
+        width: 210px;
+        text-align: center;
+        top: 35px;
+        left: 25px;
+    }
+
+        .sneo-n1txt p {
+            color: #1c1c1c;
+            font-size: 17px;
+            font-weight: 300;
+            margin-bottom: 15px;
+        }
+
+    .sneo-n1-btn {
+        display: inline-block;
+        width: 157px;
+        height: 34px;
+        border-radius: 5px;
+        background-color: #dd2121;
+        border: solid 1px rgba(93, 0, 36, 0.2);
+        line-height: 33px;
+        color: #ffffff;
+        font-weight: bold;
+        margin-bottom: 8px;
+    }
+
+    .sneo-n1-btn2 {
+        width: 157px;
+        height: 34px;
+        border-radius: 5px;
+        background-color: #ffffff;
+        border: solid 1px rgba(93, 0, 36, 0.2);
+        display: inline-block;
+        line-height: 33px;
+        color: #1c1c1c;
+    }
+</style>
+<div class="fsneo-box" style="display : none;">
+    <div class="fsneo-n1" style="display: block;">
+        <span class="fsneo-close"></span>
+        <a style="color: #8b572a;text-decoration: underline;" href="/" target="_blank" title=""><b>Xem chi tiết&gt;</b></a>
+        <div class="fsneo-n1sea">
+            <p id="vcstatus" style="display:none;position: absolute;bottom:36px;color:black;font-size:12px;"></p>
+            <input id="phoneVc" type="tel" placeholder="Nhập số điện thoại...">
+            <button class="fs-vcnbtn" type="button">NHẬN VOUCHER</button>
+        </div>
+    </div>
+    <div class="fsneo-n1a" style="display: none;">
+        <span class="fsneo-close"></span>
+        <div class="sneo-n1txt">
+            <p>Bạn muốn mua sản phẩm:</p>
+            <p id="vcstatus2" style="display: none;    position: absolute;bottom: 36px;color: black;top: 50px;"></p>
+            <a href="javascript:;" data-type="1" class="btnBrandVc sneo-n1-btn">Apple</a>
+            <a href="javascript:;" data-type="2" class="btnBrandVc sneo-n1-btn2">Thương hiệu khác</a>
+        </div>
+    </div>
+    <div class="fsneo-n2" style="display: none;">
+        <span class="fsneo-close"></span>
+        <p><strong style="color : #191919; font-size: 14px;">FPTShop đã gửi mã khuyến mại đến Quý khách.</strong></p>
+        <p style="color:#191919;padding:6px 0px;" class="txtapple">Vui lòng sử dụng mã khuyến mại từ 01/06 - 06/06/2018.</p>
+        <p style="color:#191919;font-size: 16px"><strong>Cảm ơn Quý khách!</strong></p>
+        <button class="btnClose" type="button" style="width: 200px;height: 40px;border-radius: 4px;background-color: #dd2121;border: none;color: #fff;font-size: 14px;font-weight: bold;margin-top: 7px;text-transform: uppercase;">Đóng thông báo</button>
+    </div>
+</div>
+<script>
+        if ($.cookie('isReciveVcMstt') == undefined) {
+            $('.fsneo-box').hide();
+        } else {
+            $('.fsneo-box').hide();
+        }
+        $(".fs-vcnbtn").click(function () {
+            $(".fs-vcnbtn").hide();
+            var phone = $('#phoneVc').val();
+            if (/^(098|095|097|096|0169|0168|0167|0166|0165|0164|0163|0162|090|093|0122|0126|0128|0121|0120|091|094|0123|0124|0125|0127|0129|092|0188|0186|099|0199|086|088|089|087)[0-9]{7}$/.test(phone)) {
+			var d = new Date();
+				if(d.getHours() < 22 && d.getDate() == 0)
+				{
+					$('.fsneo-n1').hide();
+					$('.fsneo-n1a').show();
+				}
+				else
+				{
+					$.post("/ApiVoucherNeo/Home/SendVoucherAPI", { phone: phone , type : 2},
+					function (resp) {
+						if (resp == 1) {
+							$('.fsneo-n1').hide();
+							$('.fsneo-n2').show();
+							$.cookie('isReciveVcMstt', 1, { expires: 7, path: '/' });
+						} else {
+							$('#vcstatus').text('Số điện thoại đã tham gia chương trình'); $('#vcstatus').show();
+							setTimeout(function (){
+							$(".fs-vcnbtn").show();$('#vcstatus').hide();}, 1000);
+						}
+					});
+				}
+            } else {
+                $('#vcstatus').text('Số điện thoại không đúng định dạng'); $('#vcstatus').show();
+                setTimeout(function () {
+                    $('#vcstatus').hide();
+                    $(".fs-vcnbtn").show();
+                }, 1500);
+            }
+        });
+
+		$(".btnBrandVc").click(function () {
+            $(".btnBrandVc").hide();
+			$('.sneo-n1txt p').hide();
+            var phone = $('#phoneVc').val();
+			var type = parseInt($(this).attr('data-type'));
+             $.post("/ApiVoucherNeo/Home/SendVoucherAPI", { phone: phone , type : type},
+			function (resp) {
+				if (resp == 1) {
+					if(type == 1)
+					{
+						$('.txtapple').text('trong ngày 8/2')
+					}
+					$('.fsneo-n1a').hide();
+					$('.fsneo-n2').show();
+					$.cookie('isReciveVcMstt', 1, { expires: 7, path: '/' });
+				} else {
+					$('#vcstatus2').text('Số điện thoại đã tham gia chương trình'); $('#vcstatus2').show(); setTimeout(function ()
+					{ $(".btnBrandVc").show(); $('.sneo-n1txt p').show();$('#vcstatus2').hide(); $('.fsneo-n1a').hide(); $('.fsneo-n1').show(); $(".fs-vcnbtn").show();}, 1000);
+				}
+			});
+        });
+        $(".fsneo-close, .btnClose").click(function () {
+            $.cookie('isReciveVcMstt', 0, { expires: 7, path: '/' }); $('.fsneo-box').remove();
+        });
+</script>
+<!-- End Neo -->
+	
+
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","527503604082474");fbq("set","agent","tmgoogletagmanager","527503604082474");
+fbq("track","ViewContent",{value:"undefined",currency:"VND"});</script><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 1; pointer-events: none !important; overflow: visible;" src="https://vars.hotjar.com/rcj-99d43ead6bdf30da8ed5ffcb4f17100c.html"></iframe><iframe id="spWorker" src="https://fptshop.api.sociaplus.com/worker.html" style="display: none;"></iframe><style id="insider-free-stylesheet">.ins-crowdy-wrap-6 { display:none !important; } .sp-inline-wrap-323{ z-index:0 !important; }</style><style>#spHeader {background-color:#52B7F1 !important;}#spHeader p span{color:#000 !important;}.spHeaderNav {color:#000 !important;}</style><style id="insBeforeStyle">.sp-fancybox-wrap {top: -9999px !important; }</style><div class="sp-fancybox-wrap fancybox-desktop fancybox-type-iframe sp-advanced-css-338 sp-fancybox-opened" style="visibility: hidden; zoom: 1; width: 800px; height: auto; display: none; position: fixed; top: 177px; left: 675px; overflow: hidden; opacity: 1;"><div class="sp-fancybox-skin" style="padding: 0px;"><div class="sp-fancybox-outer"><div class="sp-fancybox-inner" style="width: 800px; height: 600px; overflow: auto;"><iframe class="sp-fancybox-iframe" name="fancybox-frame1527764321687" frameborder="0" hspace="0" scrolling="no" src="https://fptshop.api.sociaplus.com/frame.php?viewType=1&amp;id=338&amp;appType=24&amp;pageUrl=https%3A%2F%2Ffptshop.com.vn%2Fdien-thoai%2Fapple-iphone&amp;campType=bounce&amp;version=1527757777"></iframe></div></div><div title="Close" class="sp-fancybox-item sp-fancybox-close"></div></div></div><div id="ads"></div><style>.sp-advanced-css-338 .sp-fancybox-skin { background-color: transparent !important; box-shadow: 0 0 0 0 !important; z-index: 999999}.sp-advanced-css-338 .sp-fancybox-close { display: none !important; }.sp-advanced-css-338 .sp-fancybox-iframe { border-radius: 0px !important; border-width: 1px !important; border-style: undefined !important; border-color: rgb(51, 51, 51) !important; -webkit-box-sizing: border-box !important; -moz-box-sizing: border-box !important; box-sizing: border-box !important; }.sp-advanced-css-338 .sp-fancybox-inner { overflow: hidden !important; box-shadow: none !important; border-radius: 0px !important;}</style><style>.sp-advanced-css-338, .sp-advanced-css-338 .sp-fancybox-inner { width: 0px !important; }.sp-advanced-css-338 { top: 0px !important; left: 0px !important; position: absolute!important;}</style><style id="insdrInfoHeightStyle-338">.sp-advanced-css-338 .sp-fancybox-inner { height: 0px !important; }</style></body>

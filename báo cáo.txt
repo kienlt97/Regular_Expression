@@ -1,0 +1,34 @@
+﻿2.MỤC LỤC
+- Biểu thức chính quy
+   + Định nghĩa
+   + Cách viết một mẫu biểu thức chính quy
+   + Làm việc với biểu thức chính quy
+- Bóc tách nội dung từ trang web
+   + Phân tích mã HTML (nội dung chứa đối tượng cần tìm kiếm)
+   + Các cách xử lý ngôn  ngữ tự nhiên
+   + Các phần sẽ đạt được sau cùng
+- Triển khai nội dung dưới windown form C#
+   + nêu các thư viện và các hàm sẽ sử dụng
+   + ý nghĩa của các hàm và các bước xử lý
+   + nội dung đạt được
+
+3.
+- Mục đích
+- Cách giải quyết vấn đề
+
+4.
+- Nêu các kiến thức liên quan
++ Biểu thức chính quy
++ C# windown form
++ Html cơ bản
+
+5.
+Về phần code chương trình
+
+6.
+Sơ đồ khối hoạt động
+
+7.
+Phân tích giao diện
+
+8.
